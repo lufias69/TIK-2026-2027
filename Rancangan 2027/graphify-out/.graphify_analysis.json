@@ -1,0 +1,361 @@
+{
+  "communities": {
+    "0": [
+      "classified_mkwp",
+      "classified_semester2",
+      "classified_semester3",
+      "classified_semester4",
+      "classified_semester5",
+      "classified_tin2106",
+      "classified_tin2107",
+      "classified_tin2108",
+      "classified_tin2109",
+      "classified_tin2110",
+      "classified_tin2111",
+      "classified_tin2112",
+      "classified_tin302",
+      "classified_tin303",
+      "classified_tin304",
+      "classified_tin305",
+      "classified_tin306",
+      "classified_tin307",
+      "classified_tin308",
+      "classified_tin4120",
+      "classified_tin4121",
+      "classified_tin4122",
+      "classified_tin4123",
+      "classified_tin4124",
+      "classified_tin4125",
+      "classified_tin4126",
+      "classified_tin5117",
+      "classified_tin5118",
+      "classified_tin5119",
+      "classified_tin5120",
+      "classified_tin5121",
+      "classified_tin5123",
+      "classified_tin5245",
+      "classified_tin5248",
+      "classified_tin5249"
+    ],
+    "1": [
+      "daftar_mk_algoritma_pemrograman",
+      "daftar_mk_capstone1",
+      "daftar_mk_capstone2",
+      "daftar_mk_ehealth",
+      "daftar_mk_logika_informatika",
+      "daftar_mk_prinsip_keamanan_siber",
+      "daftar_mk_rpl",
+      "daftar_mk_sbd_lanjut",
+      "daftar_mk_sistem_basis_data",
+      "daftar_mk_sistem_operasi",
+      "daftar_mk_skripsi",
+      "daftar_mk_struktur_data",
+      "panduan_kurikulum_obe_bk05_platform",
+      "panduan_kurikulum_obe_bk07_keamanan_siber",
+      "panduan_kurikulum_obe_bk08_profesional_global",
+      "panduan_kurikulum_obe_bk09_manajemen_data",
+      "panduan_kurikulum_obe_bk10_fundamental_pl",
+      "panduan_kurikulum_obe_bk12_tata_kelola_siber",
+      "panduan_kurikulum_obe_bk14_implementasi_siber",
+      "panduan_kurikulum_obe_bk15_paradigma_sistem",
+      "panduan_kurikulum_obe_bk17_struktur_diskrit",
+      "panduan_kurikulum_obe_bk18_matematika",
+      "panduan_kurikulum_obe_bk27_penelitian",
+      "panduan_kurikulum_obe_cpl01",
+      "panduan_kurikulum_obe_cpl02",
+      "panduan_kurikulum_obe_cpl05",
+      "panduan_kurikulum_obe_mk01_admin_sistem",
+      "panduan_kurikulum_obe_mk05_platform",
+      "panduan_kurikulum_obe_mk09_basis_data",
+      "panduan_kurikulum_obe_mk10_alg_struktur",
+      "panduan_kurikulum_obe_mk15_teknologi_siber",
+      "panduan_kurikulum_obe_mk25_tugas_akhir",
+      "panduan_kurikulum_obe_pl01"
+    ],
+    "2": [
+      "classified_mbkm_concept",
+      "classified_mkp",
+      "classified_semester6",
+      "classified_semester7",
+      "classified_semester8",
+      "classified_tin5246",
+      "classified_tin5247",
+      "classified_tin6130",
+      "classified_tin6131",
+      "classified_tin6132",
+      "classified_tin6133",
+      "classified_tin6134",
+      "classified_tin6250",
+      "classified_tin6251",
+      "classified_tin6252",
+      "classified_tin6253",
+      "classified_tin6254",
+      "classified_tin7138",
+      "classified_tin7140",
+      "classified_tin7141",
+      "classified_tin7257",
+      "classified_tin7260",
+      "classified_tin7261",
+      "classified_tin8142",
+      "classified_tin8143",
+      "classified_tin8144"
+    ],
+    "3": [
+      "daftar_mk_document",
+      "daftar_mk_kkn",
+      "daftar_mk_magang",
+      "panduan_kurikulum_obe_abet",
+      "panduan_kurikulum_obe_aptikom",
+      "panduan_kurikulum_obe_asesmen_pembelajaran",
+      "panduan_kurikulum_obe_bahan_kajian",
+      "panduan_kurikulum_obe_bk01_virtual_systems",
+      "panduan_kurikulum_obe_cc2020",
+      "panduan_kurikulum_obe_cpl",
+      "panduan_kurikulum_obe_cpmk",
+      "panduan_kurikulum_obe_document",
+      "panduan_kurikulum_obe_evaluasi_kurikulum",
+      "panduan_kurikulum_obe_iabee",
+      "panduan_kurikulum_obe_it2017",
+      "panduan_kurikulum_obe_kkni",
+      "panduan_kurikulum_obe_mbkm",
+      "panduan_kurikulum_obe_obe_framework",
+      "panduan_kurikulum_obe_rps",
+      "panduan_kurikulum_obe_seoul_accord",
+      "panduan_kurikulum_obe_skkni",
+      "panduan_kurikulum_obe_sn_dikti",
+      "panduan_kurikulum_obe_sub_cpmk",
+      "panduan_kurikulum_obe_tracer_study"
+    ],
+    "4": [
+      "classified_aik_concept",
+      "classified_ins1101",
+      "classified_ins1106",
+      "classified_ins2102",
+      "classified_ins2105",
+      "classified_ins301",
+      "classified_ins4104",
+      "classified_mkwi",
+      "classified_mkwn",
+      "classified_nas1101",
+      "classified_nas1102",
+      "classified_nas2103",
+      "classified_prodi_ti",
+      "classified_semester1",
+      "classified_tin1101",
+      "classified_tin1102",
+      "classified_tin1103",
+      "classified_tin1104",
+      "classified_tin1105"
+    ],
+    "5": [
+      "daftar_mk_aplikasi_seluler",
+      "daftar_mk_imk",
+      "daftar_mk_pemrograman_web_dasar",
+      "daftar_mk_sistem_web_mobile",
+      "daftar_mk_ux_design",
+      "daftar_mk_web_lanjut",
+      "panduan_kurikulum_obe_bk11_ux",
+      "panduan_kurikulum_obe_bk13_manajemen_proyek",
+      "panduan_kurikulum_obe_bk16_web_mobile",
+      "panduan_kurikulum_obe_bk23_app_mobile",
+      "panduan_kurikulum_obe_cpl03",
+      "panduan_kurikulum_obe_mk14_manpro_ti",
+      "panduan_kurikulum_obe_mk16_pemrograman_web",
+      "panduan_kurikulum_obe_mk17_pemrograman_mobile"
+    ],
+    "6": [
+      "daftar_mk_iot",
+      "daftar_mk_jaringan_komputer1",
+      "daftar_mk_jaringan_komputer2",
+      "daftar_mk_komunikasi_data",
+      "panduan_kurikulum_obe_bk02_iot",
+      "panduan_kurikulum_obe_bk03_jaringan_komputer",
+      "panduan_kurikulum_obe_bk04_integrasi_sistem",
+      "panduan_kurikulum_obe_bk06_app_platform",
+      "panduan_kurikulum_obe_cpl04",
+      "panduan_kurikulum_obe_mk22_cloud_computing",
+      "panduan_kurikulum_obe_pl02",
+      "panduan_kurikulum_obe_profil_lulusan"
+    ],
+    "7": [
+      "daftar_mk_analitik_data",
+      "daftar_mk_data_mining",
+      "daftar_mk_data_science",
+      "daftar_mk_kecerdasan_buatan",
+      "daftar_mk_pengantar_ai",
+      "panduan_kurikulum_obe_bk22_analitik_data"
+    ],
+    "8": [
+      "daftar_mk_pbo"
+    ],
+    "9": [
+      "daftar_mk_pengantar_ti"
+    ],
+    "10": [
+      "panduan_kurikulum_obe_mkwk"
+    ],
+    "11": [
+      "panduan_kurikulum_obe_vmts"
+    ]
+  },
+  "cohesion": {
+    "0": 0.10252100840336134,
+    "1": 0.08143939393939394,
+    "2": 0.10461538461538461,
+    "3": 0.09782608695652174,
+    "4": 0.14035087719298245,
+    "5": 0.17582417582417584,
+    "6": 0.18181818181818182,
+    "7": 0.3333333333333333,
+    "8": 1.0,
+    "9": 1.0,
+    "10": 1.0,
+    "11": 1.0
+  },
+  "gods": [
+    {
+      "id": "classified_mkwp",
+      "label": "Wajib Prodi (MKW-P)",
+      "degree": 44
+    },
+    {
+      "id": "panduan_kurikulum_obe_cpl01",
+      "label": "CPL01: Pengetahuan Matematika dan Computing untuk Pemecahan Masalah Kompleks",
+      "degree": 15
+    },
+    {
+      "id": "classified_mkp",
+      "label": "Pilihan Prodi (MKP)",
+      "degree": 14
+    },
+    {
+      "id": "panduan_kurikulum_obe_document",
+      "label": "Panduan Kurikulum OBE Prodi S1 Teknologi Informasi 2023",
+      "degree": 12
+    },
+    {
+      "id": "panduan_kurikulum_obe_cpl",
+      "label": "CPL - Capaian Pembelajaran Lulusan",
+      "degree": 12
+    },
+    {
+      "id": "panduan_kurikulum_obe_cpl03",
+      "label": "CPL03: Perancangan dan Evaluasi Solusi Berbasis Computing",
+      "degree": 11
+    },
+    {
+      "id": "classified_semester5",
+      "label": "Semester 5",
+      "degree": 11
+    },
+    {
+      "id": "classified_semester2",
+      "label": "Semester 2",
+      "degree": 10
+    },
+    {
+      "id": "classified_semester1",
+      "label": "Semester 1",
+      "degree": 9
+    },
+    {
+      "id": "classified_semester6",
+      "label": "Semester 6",
+      "degree": 9
+    }
+  ],
+  "surprises": [
+    {
+      "source": "TIN7257: E-Health (Semester 7, 4 SKS)",
+      "target": "BK09: Manajemen Data dan Informasi (Penciri Utama)",
+      "source_files": [
+        "graphify-out/converted/daftar_mata_kuliah_3423e63d.md",
+        "PANDUAN KURIKULUM  OBE PRODI S1 TEKNOLOGI INFORMASI 2023.pdf"
+      ],
+      "confidence": "AMBIGUOUS",
+      "relation": "semantically_similar_to",
+      "why": "ambiguous connection - not explicitly stated in source; crosses file types (paper ↔ doc); connects across different repos/directories; semantically similar concepts with no structural link"
+    },
+    {
+      "source": "TIN5123: Analitik Data (Semester 5, 2 SKS)",
+      "target": "BK22: Skalabilitas dan Analitik Data (Penciri Pendukung)",
+      "source_files": [
+        "graphify-out/converted/daftar_mata_kuliah_3423e63d.md",
+        "PANDUAN KURIKULUM  OBE PRODI S1 TEKNOLOGI INFORMASI 2023.pdf"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; crosses file types (paper ↔ doc); connects across different repos/directories; semantically similar concepts with no structural link; peripheral node `TIN5123: Analitik Data (Semester 5, 2 SKS)` unexpectedly reaches hub `BK22: Skalabilitas dan Analitik Data (Penciri Pendukung)`"
+    },
+    {
+      "source": "TIN4123: Data Mining (Semester 4, 4 SKS)",
+      "target": "BK22: Skalabilitas dan Analitik Data (Penciri Pendukung)",
+      "source_files": [
+        "graphify-out/converted/daftar_mata_kuliah_3423e63d.md",
+        "PANDUAN KURIKULUM  OBE PRODI S1 TEKNOLOGI INFORMASI 2023.pdf"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; crosses file types (paper ↔ doc); connects across different repos/directories; semantically similar concepts with no structural link; peripheral node `TIN4123: Data Mining (Semester 4, 4 SKS)` unexpectedly reaches hub `BK22: Skalabilitas dan Analitik Data (Penciri Pendukung)`"
+    },
+    {
+      "source": "TIN5117: Data Science (Semester 5, 4 SKS)",
+      "target": "BK22: Skalabilitas dan Analitik Data (Penciri Pendukung)",
+      "source_files": [
+        "graphify-out/converted/daftar_mata_kuliah_3423e63d.md",
+        "PANDUAN KURIKULUM  OBE PRODI S1 TEKNOLOGI INFORMASI 2023.pdf"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; crosses file types (paper ↔ doc); connects across different repos/directories; semantically similar concepts with no structural link; peripheral node `TIN5117: Data Science (Semester 5, 4 SKS)` unexpectedly reaches hub `BK22: Skalabilitas dan Analitik Data (Penciri Pendukung)`"
+    },
+    {
+      "source": "TIN5246: Kecerdasan Buatan (Semester 5, 4 SKS)",
+      "target": "BK22: Skalabilitas dan Analitik Data (Penciri Pendukung)",
+      "source_files": [
+        "graphify-out/converted/daftar_mata_kuliah_3423e63d.md",
+        "PANDUAN KURIKULUM  OBE PRODI S1 TEKNOLOGI INFORMASI 2023.pdf"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; crosses file types (paper ↔ doc); connects across different repos/directories; semantically similar concepts with no structural link; peripheral node `TIN5246: Kecerdasan Buatan (Semester 5, 4 SKS)` unexpectedly reaches hub `BK22: Skalabilitas dan Analitik Data (Penciri Pendukung)`"
+    }
+  ],
+  "questions": [
+    {
+      "type": "ambiguous_edge",
+      "question": "What is the exact relationship between `BK09: Manajemen Data dan Informasi (Penciri Utama)` and `TIN7257: E-Health (Semester 7, 4 SKS)`?",
+      "why": "Edge tagged AMBIGUOUS (relation: semantically_similar_to) - confidence is low."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `CPL - Capaian Pembelajaran Lulusan` connect `Community 3` to `Community 1`, `Community 5`, `Community 6`?",
+      "why": "High betweenness centrality (0.159) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `Wajib Prodi (MKW-P)` connect `Community 0` to `Community 2`, `Community 4`?",
+      "why": "High betweenness centrality (0.141) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `CPL01: Pengetahuan Matematika dan Computing untuk Pemecahan Masalah Kompleks` connect `Community 1` to `Community 3`?",
+      "why": "High betweenness centrality (0.092) - this node is a cross-community bridge."
+    },
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `Daftar Mata Kuliah Prodi S1 Teknologi Informasi`, `SKKNI - Standar Kompetensi Kerja Nasional Indonesia`, `IABEE - Indonesian Accreditation Board for Engineering Education` to the rest of the system?",
+      "why": "47 weakly-connected nodes found - possible documentation gaps or missing edges."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 0` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.10252100840336134 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 1` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.08143939393939394 - nodes in this community are weakly interconnected."
+    }
+  ]
+}
