@@ -278,6 +278,23 @@ Tabel berikut menunjukkan jumlah CPMK dan CPL yang didukung setiap mata kuliah i
 
 ---
 
+### 8.5.1 Pemetaan CPL → CPMK → Mata Kuliah
+
+Untuk memperjelas traceability, berikut pemetaan ringkas antar CPL, bentuk CPMK yang dikembangkan, dan mata kuliah yang secara utama memuat CPMK tersebut.
+
+| CPL | CPMK yang dikembangkan (ringkas) | Mata kuliah yang memuat CPMK tersebut |
+|-----|----------------------------------|---------------------------------------|
+| **CPL01** | CPMK yang menekankan penguasaan pengetahuan matematika, komputasi, dan algoritma dasar; memuat kemampuan menerapkan konsep matematis dan logika untuk analisis persoalan komputasi | Logika Informatika; Algoritma dan Pemrograman; Aljabar Linier dan Matriks; Kalkulus; Struktur Data; Organisasi & Arsitektur Komputer; Hardware/Software; Data Mining; Statistik; Data Science; Analitik Data; Riset Operasi; Skripsi |
+| **CPL02** | CPMK yang menekankan kemampuan menganalisis permasalahan, kebutuhan pengguna, dan konteks domain; menuntut pemodelan masalah dan pemilihan solusi yang tepat | Pengantar Teknologi Informasi; Sistem Basis Data; Manajemen Sistem Informasi; Rekayasa Perangkat Lunak; Sistem Informasi Kesehatan; Interaksi Manusia dan Komputer; Metodologi Penelitian; Capstone Project 1; Capstone Project 2; Seminar Proposal; Seminar Hasil; Skripsi |
+| **CPL03** | CPMK yang menekankan kemampuan merancang, mengimplementasikan, dan mengevaluasi solusi berbasis computing; sering dikaitkan dengan aplikasi, sistem, dan prototipe | Algoritma dan Pemrograman; Struktur Data; PBO; Pemrograman Web Dasar; Pemrograman Web Lanjut; Dasar-Dasar Perangkat Lunak; Komputer Grafis; Multimedia; Aplikasi Seluler; Sistem Web dan Seluler; Capstone Project 1; Capstone Project 2; Skripsi |
+| **CPL04** | CPMK yang menekankan kemampuan mengintegrasikan, mengkonfigurasi, dan mengadministrasikan infrastruktur TI; mencakup jaringan, sistem operasi, platform, dan layanan digital | Komunikasi Data; Sistem Operasi; Jaringan Komputer 1; Jaringan Komputer 2; Hardware/Software; Embedded Sistem; Teknologi Sistem Terintegrasi; Teknologi Platform; Internet of Things; Sistem dan Layanan Virtual; Aplikasi Seluler; Sistem Web dan Seluler |
+| **CPL05** | CPMK yang menekankan keamanan siber, tata kelola informasi, manajemen risiko, dan audit sistem | Sistem Basis Data; Manajemen Sistem Informasi; Prinsip Keamanan Siber; Sistem Basis Data Lanjut; Informatika Medis; E-Health; Sistem Informasi Kesehatan |
+| **CPL06** | CPMK yang menekankan kemampuan menerapkan analitik data, machine learning, AI, dan evaluasi berbasis data secara etis | Pengantar Kecerdasan Buatan; Data Mining; Statistik; Data Science; Analitik Data; Kecerdasan Buatan; Business Problem & DS Solution; Riset Operasi; E-Health; Skripsi |
+
+> *Pemetaan ini merupakan agregasi ringkas dari matriks MK–CPL pada [BAB VI §6.4], contoh penurunan CPMK pada bagian §8.4, serta RPS yang tercantum pada [BAB IX].*
+
+---
+
 ## 8.6 Matriks Kelengkapan CPL melalui CPMK
 
 Verifikasi bahwa setiap CPL didukung oleh CPMK dari sejumlah mata kuliah dengan **kontribusi utama (●)** (dihitung dari matriks MK–CPL [BAB VI §6.4]):
