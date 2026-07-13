@@ -3,10 +3,28 @@
 Bab ini memuat deskripsi ringkas seluruh 65 mata kuliah dalam kurikulum Program Studi S1 Teknologi Informasi. Setiap deskripsi mencakup: **kode**, **SKS**, **CPL yang didukung**, **Bahan Kajian (BK)**, dan **ringkasan materi**.
 
 > *Format acuan: setiap MK memetakan minimal 1 CPL dan 1 BK. Kode CPL/BK merujuk pada BAB IV dan BAB V.*
+>
+> **[AMANDEMEN]** Seluruh mata kuliah AIK dan Wajib Nasional kini memiliki CPL/BK utama eksplisit (CPL07/BK29 untuk AIK, CPL08/BK28 untuk Wajib Nasional) — sebelumnya sebagian hanya dicatat dalam Tabel 7.1 tanpa deskripsi individual atau pemetaan CPL/BK yang jelas.
 
 ---
 
 ## SEMESTER 1
+
+### INS1101 — AIK I: Keimanan, Kemanusiaan, dan Akhlak (2 SKS)
+- **CPL:** CPL07 (Sikap dan Wawasan Keislaman) | **BK:** BK29 (Al-Islam dan Kemuhammadiyahan)
+- Membahas konsep keimanan (aqidah), kemanusiaan, dan akhlak Islami sebagai fondasi pembentukan karakter mahasiswa dalam kehidupan akademik dan profesional, selaras dengan paham Muhammadiyah/'Aisyiyah.
+
+### INS1106 — Bahasa Inggris (2 SKS)
+- **CPL:** CPL02 | **BK:** BK08 (Praktek Profesional Global)
+- Mengembangkan kemampuan berbahasa Inggris dasar (membaca, menulis, berbicara) untuk komunikasi akademik dan profesional di bidang teknologi informasi.
+
+### NAS1101 — Pancasila (2 SKS)
+- **CPL:** CPL08 (Sikap dan Wawasan Kebangsaan) | **BK:** BK28 (Wawasan Kebangsaan)
+- Membahas nilai-nilai dasar Pancasila sebagai ideologi dan dasar negara, serta implementasinya dalam kehidupan berbangsa dan bernegara.
+
+### NAS1102 — Bahasa Indonesia (2 SKS)
+- **CPL:** CPL08 (Sikap dan Wawasan Kebangsaan) | **BK:** BK28 (Wawasan Kebangsaan)
+- Mengembangkan kemampuan berbahasa Indonesia yang baik dan benar untuk komunikasi akademik dan penulisan karya ilmiah.
 
 ### TIN1101 — Logika Informatika (2 SKS)
 - **CPL:** CPL01 | **BK:** BK14 (Logika & Matematika Diskrit)
@@ -31,6 +49,18 @@ Bab ini memuat deskripsi ringkas seluruh 65 mata kuliah dalam kurikulum Program 
 ---
 
 ## SEMESTER 2
+
+### INS2102 — AIK II: Ibadah dan Muamalah (2 SKS)
+- **CPL:** CPL07 (Sikap dan Wawasan Keislaman) | **BK:** BK29 (Al-Islam dan Kemuhammadiyahan)
+- Membahas tata cara ibadah dan muamalah (interaksi sosial-ekonomi) dalam perspektif Islam sebagai panduan kehidupan sehari-hari, termasuk dasar ekonomi syariah yang relevan dengan jiwa kewirausahaan.
+
+### INS2105 — Kewirausahaan (2 SKS)
+- **CPL:** CPL02, CPL03 | **BK:** BK13 (Manajemen Proyek TI)
+- Membekali mahasiswa dengan konsep dan praktik kewirausahaan berbasis teknologi, mencakup identifikasi peluang, perencanaan bisnis, prototyping produk digital, dan manajemen risiko usaha.
+
+### NAS2103 — Kewarganegaraan (2 SKS)
+- **CPL:** CPL08 (Sikap dan Wawasan Kebangsaan) | **BK:** BK28 (Wawasan Kebangsaan)
+- Membahas hak dan kewajiban warga negara, wawasan kebangsaan, dan bela negara dalam konteks kehidupan berbangsa dan bernegara Indonesia.
 
 ### TIN2106 — Komputer Grafis (2 SKS)
 - **CPL:** CPL03 | **BK:** BK20 (Komputasi Grafis & Multimedia)
@@ -65,8 +95,8 @@ Bab ini memuat deskripsi ringkas seluruh 65 mata kuliah dalam kurikulum Program 
 ## SEMESTER 3
 
 ### INS301 — Kemuhammadiyahan dan Ke'Aisyiyahan (2 SKS)
-- **CPL:** Penciri Institusi (Sikap) | **BK:** —
-- **Setara AIK III** dalam rangkaian Al-Islam dan Kemuhammadiyahan (AIK I → AIK II → Kemuhammadiyahan/AIK III → AIK IV). Menanamkan pemahaman sejarah, ideologi, dan nilai-nilai gerakan Muhammadiyah dan Aisyiyah, serta implementasinya dalam kehidupan akademik dan profesional.
+- **CPL:** CPL07 (Sikap dan Wawasan Keislaman) | **BK:** BK29 (Al-Islam dan Kemuhammadiyahan)
+- **Setara AIK III** dalam rangkaian Al-Islam dan Kemuhammadiyahan (AIK I → AIK II → Kemuhammadiyahan/AIK III → AIK IV). Menanamkan pemahaman sejarah, ideologi, dan nilai-nilai gerakan Muhammadiyah dan 'Aisyiyah, serta implementasinya dalam kehidupan akademik dan profesional di lingkungan ISTEK-AK.
 
 ### TIN302 — Jaringan Komputer 1 (4 SKS)
 - **CPL:** CPL04 | **BK:** BK03 (Jaringan Komputer), BK26
@@ -100,8 +130,8 @@ Bab ini memuat deskripsi ringkas seluruh 65 mata kuliah dalam kurikulum Program 
 
 ## SEMESTER 4
 
-### INS4104 — AIK IV (Islam dan IPTEK) (2 SKS)
-- **CPL:** Penciri Institusi (Sikap) | **BK:** —
+### INS4104 — AIK IV: Islam dan IPTEK (2 SKS)
+- **CPL:** CPL07 (Sikap dan Wawasan Keislaman) | **BK:** BK29 (Al-Islam dan Kemuhammadiyahan)
 - Integrasi nilai-nilai Islam dengan perkembangan ilmu pengetahuan dan teknologi, etika Islam dalam pengembangan dan penerapan TI.
 
 ### TIN4120 — Pemrograman Web Lanjut (4 SKS)
@@ -270,27 +300,25 @@ Bab ini memuat deskripsi ringkas seluruh 65 mata kuliah dalam kurikulum Program 
 
 ---
 
-## MATA KULIAH WAJIB NASIONAL & INSTITUSI (Karakter)
+## Ringkasan Mata Kuliah Wajib Nasional & Institusi (Pembentuk Karakter)
 
-Mata kuliah berikut membangun kompetensi sikap dan karakter (tidak dipetakan langsung ke CPL domain teknis):
-
-Mata kuliah berikut membangun kompetensi sikap dan karakter (tidak dipetakan langsung ke CPL domain teknis), sebagaimana dirangkum pada Tabel 7.1.
+Mata kuliah berikut membangun kompetensi sikap dan karakter. **[AMANDEMEN]** Berbeda dari versi sebelumnya yang menyatakan seluruh kelompok ini "tidak dipetakan langsung ke CPL domain teknis" tanpa rincian, kini seluruh mata kuliah ini memiliki CPL dan BK utama eksplisit (CPL07/BK29 untuk AIK, CPL08/BK28 untuk Wajib Nasional; CPL02/BK08 dan CPL02-03/BK13 untuk institusi umum), sebagaimana dirangkum pada Tabel 7.1.
 
 **Tabel 7.1 — Mata Kuliah Wajib Nasional dan Institusi (Pembentuk Karakter)**
 
-| Kode | Nama | SKS | Semester | Kategori |
-|------|------|:---:|:--------:|----------|
-| NAS1101 | Pancasila | 2 | 1 | Wajib Nasional |
-| NAS1102 | Bahasa Indonesia | 2 | 1 | Wajib Nasional |
-| NAS2103 | Kewarganegaraan | 2 | 2 | Wajib Nasional |
-| INS1101 | AIK I (Keimanan, Kemanusiaan dan Akhlak) | 2 | 1 | Wajib Institusi |
-| INS1106 | Bahasa Inggris | 2 | 1 | Wajib Institusi |
-| INS2102 | AIK II (Ibadah dan Muamalah) | 2 | 2 | Wajib Institusi |
-| INS2105 | Kewirausahaan | 2 | 2 | Wajib Institusi |
-| INS301 | Kemuhammadiyahan dan Ke'Aisyiyahan | 2 | 3 | Wajib Institusi |
-| INS4104 | AIK IV (Islam dan IPTEK) | 2 | 4 | Wajib Institusi |
+| Kode | Nama | SKS | Semester | Kategori | CPL Utama | BK Utama |
+|------|------|:---:|:--------:|----------|:---------:|:--------:|
+| NAS1101 | Pancasila | 2 | 1 | Wajib Nasional | **CPL08** | **BK28** |
+| NAS1102 | Bahasa Indonesia | 2 | 1 | Wajib Nasional | **CPL08** | **BK28** |
+| NAS2103 | Kewarganegaraan | 2 | 2 | Wajib Nasional | **CPL08** | **BK28** |
+| INS1101 | AIK I (Keimanan, Kemanusiaan dan Akhlak) | 2 | 1 | Wajib Institusi | **CPL07** | **BK29** |
+| INS1106 | Bahasa Inggris | 2 | 1 | Wajib Institusi | CPL02 | BK08 |
+| INS2102 | AIK II (Ibadah dan Muamalah) | 2 | 2 | Wajib Institusi | **CPL07** | **BK29** |
+| INS2105 | Kewirausahaan | 2 | 2 | Wajib Institusi | CPL02, CPL03 | BK13 |
+| INS301 | Kemuhammadiyahan dan Ke'Aisyiyahan | 2 | 3 | Wajib Institusi | **CPL07** | **BK29** |
+| INS4104 | AIK IV (Islam dan IPTEK) | 2 | 4 | Wajib Institusi | **CPL07** | **BK29** |
 
-> *Deskripsi lengkap mata kuliah Wajib Nasional mengacu pada silabus nasional; mata kuliah AIK mengacu pada Pedoman AIK PTMA.*
+> *Deskripsi lengkap masing-masing mata kuliah tercantum pada bagian Semester 1–4 di atas. Mata kuliah AIK mengacu pada Pedoman Al-Islam dan Kemuhammadiyahan PTMA; mata kuliah Wajib Nasional mengacu pada silabus nasional (UU No. 12/2012, Permendikbudristek MKWU).*
 
 ---
 

@@ -4,6 +4,8 @@
 
 Identitas resmi dan atribut pokok Program Studi S1 Teknologi Informasi disajikan pada Tabel 2.1.
 
+> ⚠️ **CONTOH — perlu diganti data riil:** Atribut bertanda *(Contoh)* di bawah adalah ilustrasi; ganti dengan data resmi institut (nomor SK, alamat, kontak, dll.) sebelum dokumen disahkan.
+
 **Tabel 2.1 — Identitas Program Studi**
 
 | Atribut | Keterangan |
@@ -11,41 +13,41 @@ Identitas resmi dan atribut pokok Program Studi S1 Teknologi Informasi disajikan
 | **Nama Program Studi** | S1 Teknologi Informasi |
 | **Jenjang** | Sarjana (S1) |
 | **Gelar Lulusan** | Sarjana Komputer (S.Kom.) |
-| **Nama Perguruan Tinggi** | [Nama Universitas Muhammadiyah] |
-| **Fakultas / Departemen** | [Nama Fakultas] |
-| **Status Akreditasi** | [Unggul / Baik Sekali / Baik] — BAN-PT |
-| **Nomor SK Akreditasi** | [Nomor SK] |
-| **Masa Berlaku Akreditasi** | [Tanggal s.d. Tanggal] |
+| **Nama Perguruan Tinggi** | Institut Sains Teknologi dan Kesehatan Aisyiyah Kendari (ISTEK-AK) |
+| **Fakultas / Unit Pengelola** | *(Contoh)* Fakultas Sains dan Teknologi |
+| **Status Akreditasi** | *(Contoh)* Baik — BAN-PT *(ganti dengan status riil)* |
+| **Nomor SK Akreditasi** | *(Contoh)* [Nomor SK] |
+| **Masa Berlaku Akreditasi** | *(Contoh)* [Tanggal s.d. Tanggal] |
 | **Bahasa Pengantar** | Bahasa Indonesia (utama), Bahasa Inggris (parsial) |
 | **Masa Studi** | 8 Semester (4 Tahun) — Maksimal 14 Semester |
 | **Beban SKS** | 172 SKS ditawarkan; **144 SKS** beban kelulusan minimum (124 wajib + 20 pilihan) |
 | **Program Kelas** | Reguler |
-| **Alamat Program Studi** | [Alamat Lengkap] |
-| **Website** | [URL Website Prodi] |
-| **Email** | [email@universitas.ac.id] |
-| **Telepon** | [Nomor Telepon] |
-| **Tahun Pendirian** | [Tahun] |
+| **Alamat Program Studi** | *(Contoh)* Kampus ISTEK-AK, Kota Kendari, Sulawesi Tenggara |
+| **Website** | *(Contoh)* [URL Website Prodi] |
+| **Email** | *(Contoh)* ti@istek-ak.ac.id |
+| **Telepon** | *(Contoh)* [Nomor Telepon] |
+| **Tahun Pendirian** | *(Contoh)* [Tahun] |
 
 ---
 
 ## 2.2 Sejarah Singkat Program Studi
 
-> *[Bagian ini diisi oleh Tim Kurikulum Prodi]*
+> ⚠️ **CONTOH — perlu diganti data riil:** Narasi dan tabel berikut bersifat ilustratif; ganti dengan sejarah aktual Program Studi S1 Teknologi Informasi ISTEK-AK.
 
-Program Studi S1 Teknologi Informasi [Nama Universitas Muhammadiyah] didirikan pada tahun [Tahun] berdasarkan [SK Pendirian]. Sejak berdirinya, program studi ini telah mengalami beberapa kali pembaruan kurikulum seiring perkembangan teknologi dan tuntutan industri, sebagaimana dirangkum pada Tabel 2.2.
+Program Studi S1 Teknologi Informasi Institut Sains Teknologi dan Kesehatan Aisyiyah Kendari didirikan pada tahun *[Tahun]* berdasarkan *[SK Pendirian]*. Sejak berdirinya, program studi ini telah mengalami beberapa kali pembaruan kurikulum seiring perkembangan teknologi dan tuntutan industri, sebagaimana dirangkum pada Tabel 2.2.
 
 **Tabel 2.2 — Riwayat Perkembangan Kurikulum Program Studi**
 
 | Tahun | Kurikulum | Keterangan |
 |-------|-----------|------------|
-| [Tahun] | Kurikulum [Versi Awal] | Pendirian program studi |
-| [Tahun] | Kurikulum [Versi] | Penyesuaian KKNI |
+| *[Tahun]* | Kurikulum *[Versi Awal]* | Pendirian program studi |
+| *[Tahun]* | Kurikulum *[Versi]* | Penyesuaian KKNI |
 | 2023 | Kurikulum OBE 2023 | Transisi ke OBE berbasis panduan APTIKOM |
-| 2027 | **Kurikulum OBE 2027** | **Dokumen ini** — penyempurnaan berbasis evaluasi & MBKM |
+| 2027 | **Kurikulum OBE 2027** | **Dokumen ini** — penyempurnaan berbasis evaluasi & MBKM, termasuk penambahan CPL07/CPL08 dan BK28/BK29 |
 
 ---
 
-> ⚠️ **DATA CONTOH — WAJIB DIVALIDASI PRODI:** Rumusan Visi, Misi, Tujuan, dan Sasaran (VMTS) pada subbab 2.3–2.6 di bawah ini merupakan **contoh/usulan** yang disusun berdasarkan praktik umum prodi TI di lingkungan Perguruan Tinggi Muhammadiyah. VMTS resmi **harus** mengacu pada dokumen Renstra Prodi/Fakultas dan disahkan melalui rapat senat/prodi. Ganti seluruh rumusan di bawah dengan VMTS resmi program studi sebelum dokumen final.
+> ⚠️ **DATA CONTOH — WAJIB DIVALIDASI PRODI:** Rumusan Visi, Misi, Tujuan, dan Sasaran (VMTS) pada subbab 2.3–2.6 di bawah ini merupakan **contoh/usulan** yang disusun berdasarkan praktik umum prodi TI di lingkungan Perguruan Tinggi Muhammadiyah/Aisyiyah (PTMA). VMTS resmi **harus** mengacu pada dokumen Renstra Prodi/Fakultas ISTEK-AK dan disahkan melalui rapat senat/prodi. Ganti seluruh rumusan di bawah dengan VMTS resmi program studi sebelum dokumen final.
 
 ---
 
@@ -63,7 +65,7 @@ Makna setiap kata kunci dalam rumusan visi diuraikan pada Tabel 2.3 agar dapat d
 |------------|-------|
 | **Unggul** | Menghasilkan lulusan kompeten yang diakui secara nasional dan internasional, didukung akreditasi BAN-PT/IABEE |
 | **Inovatif** | Mendorong penelitian dan pengabdian yang menghasilkan solusi teknologi berdampak nyata bagi masyarakat |
-| **Berakhlak Mulia** | Menjunjung tinggi nilai-nilai Al-Islam dan Kemuhammadiyahan (AIK) dalam seluruh proses pembelajaran dan kehidupan akademik |
+| **Berakhlak Mulia** | Menjunjung tinggi nilai-nilai Al-Islam dan Kemuhammadiyahan (AIK) dalam seluruh proses pembelajaran dan kehidupan akademik, selaras konteks 'Aisyiyah |
 | **Berbasis Nilai Islam** | Ilmu TI dikembangkan dan dimanfaatkan selaras dengan ajaran Islam dan kemaslahatan umat manusia |
 | **2032** | Horizon waktu pencapaian visi dalam 5 tahun ke depan dari pemberlakuan kurikulum ini |
 
@@ -95,6 +97,8 @@ Berdasarkan visi dan misi di atas, tujuan Program Studi S1 Teknologi Informasi a
 4. **T4** — Memiliki kemampuan profesional global dan kecakapan interpersonal untuk bekerja secara efektif dalam tim lintas disiplin dan budaya.
 5. **T5** — Berintegritas tinggi, berjiwa wirausaha, dan mampu berkontribusi kepada masyarakat berlandaskan nilai-nilai Al-Islam dan Kemuhammadiyahan.
 
+> **Catatan Amandemen:** Tujuan T5 kini juga ditopang secara eksplisit oleh **CPL07 (Sikap dan Wawasan Keislaman)** dan **CPL08 (Sikap dan Wawasan Kebangsaan)** — lihat BAB IV §4.8 (Matriks PEO terhadap CPL).
+
 ---
 
 ## 2.6 Sasaran Program Studi
@@ -118,79 +122,9 @@ Sasaran program studi dijabarkan dalam Indikator Kinerja Utama (IKU) yang teruku
 
 ---
 
-## 2.7 Profil Lulusan
+## 2.7 Profil Lulusan (Ringkasan)
 
-Berdasarkan hasil tracer study, analisis kebutuhan industri, dan referensi APTIKOM 2023, Program Studi S1 Teknologi Informasi menghasilkan lulusan dengan tiga profil utama:
-
-### PL01 — Praktisi Teknologi Informasi (*IT Practitioner*)
-
-> Sarjana TI yang mampu **merancang, mengintegrasikan, mengelola, dan mengamankan** sistem informasi dan infrastruktur TI dalam organisasi, dengan orientasi pada bidang *e-health* dan sistem terintegrasi.
-
-**Deskripsi pekerjaan yang relevan:**
-- Software Developer / Full-Stack Developer
-- IT Infrastructure Engineer / System Administrator
-- Data Analyst / Data Engineer
-- Cybersecurity Analyst
-- IT Project Manager
-- Health Informatics Specialist / Clinical Informatics
-
-**Sektor industri yang relevan:**
-- Perusahaan teknologi (startup & korporasi)
-- Rumah sakit, klinik, dan industri kesehatan (e-health)
-- Instansi pemerintah (transformasi digital)
-- Perbankan dan keuangan digital
-- Konsultan TI
-
----
-
-### PL02 — Wirausahawan Teknologi Informasi (*IT Entrepreneur*)
-
-> Sarjana TI yang mampu **mengidentifikasi peluang, merintis, dan mengembangkan** usaha berbasis teknologi informasi secara mandiri, kreatif, dan berlandaskan nilai-nilai Islami.
-
-**Deskripsi kegiatan yang relevan:**
-- Pendiri startup teknologi
-- Pengembang produk digital (aplikasi, platform, SaaS)
-- Konsultan TI mandiri
-- Kreator konten teknologi dan edukasi digital
-- Agen transformasi digital UMKM
-
----
-
-### PL03 — Analis Data dan Kecerdasan Buatan (*Data Scientist / AI Engineer*)
-
-> Sarjana TI yang mampu **mengolah, menganalisis, dan memodelkan data** berskala besar menggunakan teknik analitik, machine learning, dan kecerdasan buatan untuk menghasilkan wawasan dan solusi cerdas yang mendukung pengambilan keputusan.
-
-**Deskripsi pekerjaan yang relevan:**
-- Data Scientist
-- Machine Learning / AI Engineer
-- Data Analyst / Business Intelligence Analyst
-- Data Engineer
-- Health Data Analyst
-
-**Sektor industri yang relevan:**
-- Perusahaan teknologi dan penyedia layanan AI
-- Perbankan, fintech, dan asuransi (analitik risiko & fraud)
-- Kesehatan dan e-health (analitik data medis)
-- E-commerce dan ritel (personalisasi & rekomendasi)
-- Instansi pemerintah (kebijakan berbasis data)
-
----
-
-### Matriks Profil Lulusan dan Pemangku Kepentingan
-
-Keterkaitan antara kebutuhan pemangku kepentingan dan profil lulusan yang dituju dipetakan pada Tabel 2.5.
-
-**Tabel 2.5 — Matriks Profil Lulusan terhadap Pemangku Kepentingan**
-
-| Pemangku Kepentingan | Kebutuhan | Profil Lulusan |
-|----------------------|-----------|----------------|
-| Industri TI | Pengembang aplikasi, DevOps, data engineer | PL01, PL03 |
-| Industri Kesehatan | Spesialis e-health, HIS, analitik data medis | PL01, PL03 |
-| Instansi Pemerintah | Pengelola sistem informasi, kebijakan berbasis data | PL01, PL03 |
-| UMKM & Masyarakat | Digitalisasi bisnis, konsultan TI | PL01, PL02 |
-| Wirausaha Digital | Startup TI, produk digital & AI | PL02, PL03 |
-| Industri Data & AI | Data scientist, ML engineer, analitik | PL03 |
-| Akademik & Riset | Asisten dosen, peneliti muda | PL01, PL03 |
+Program Studi S1 Teknologi Informasi menetapkan **tiga Profil Lulusan** — PL01 (Praktisi TI), PL02 (Wirausahawan TI), dan PL03 (Analis Data & Kecerdasan Buatan). Uraian lengkap kompetensi, karir representatif, dan matriks Profil Lulusan terhadap kebutuhan industri dibahas secara rinci pada **BAB III — Analisis Kebutuhan dan Profil Lulusan**, agar tidak terjadi duplikasi antar-bab.
 
 ---
 
@@ -198,45 +132,45 @@ Keterkaitan antara kebutuhan pemangku kepentingan dan profil lulusan yang dituju
 
 ### 2.8.1 Dosen Tetap Program Studi
 
-> *[Tabel berikut diisi dengan data aktual. Minimal 6 dosen tetap sesuai SN-Dikti.]*
+> ⚠️ **CONTOH — perlu diganti data riil:** Tabel berikut adalah ilustrasi struktur data; isi dengan data dosen tetap aktual (minimal 6 dosen tetap sesuai SN-Dikti).
 
 **Tabel 2.6 — Daftar Dosen Tetap Program Studi**
 
 | No. | Nama Dosen | NIDN | Jabatan Fungsional | Pendidikan Tertinggi | Bidang Keahlian |
 |----|-----------|------|--------------------|----------------------|-----------------|
-| 1 | [Nama] | [NIDN] | [Profesor/Lektor Kepala/Lektor/Asisten Ahli] | [S3/S2] | [Bidang] |
-| 2 | [Nama] | [NIDN] | | | |
-| 3 | [Nama] | [NIDN] | | | |
-| 4 | [Nama] | [NIDN] | | | |
-| 5 | [Nama] | [NIDN] | | | |
-| 6 | [Nama] | [NIDN] | | | |
+| 1 | *(Contoh)* Dosen A | [NIDN] | Lektor | S2 | Rekayasa Perangkat Lunak |
+| 2 | *(Contoh)* Dosen B | [NIDN] | Asisten Ahli | S2 | Jaringan Komputer & Keamanan Siber |
+| 3 | *(Contoh)* Dosen C | [NIDN] | Lektor | S2 | Basis Data & Sistem Informasi |
+| 4 | *(Contoh)* Dosen D | [NIDN] | Asisten Ahli | S2 | Data Science & Kecerdasan Buatan |
+| 5 | *(Contoh)* Dosen E | [NIDN] | Lektor Kepala | S3 | Manajemen Sistem Informasi |
+| 6 | *(Contoh)* Dosen F | [NIDN] | Asisten Ahli | S2 | Interaksi Manusia dan Komputer |
 
 **Rasio Dosen:Mahasiswa** yang ditargetkan: **1 : 30** (sesuai SN-Dikti)
 
 ### 2.8.2 Kualifikasi Dosen
 
-Komposisi dosen berdasarkan jenjang pendidikan tertinggi ditunjukkan pada Tabel 2.7.
+Komposisi dosen berdasarkan jenjang pendidikan tertinggi ditunjukkan pada Tabel 2.7 (contoh ilustrasi berdasarkan Tabel 2.6 di atas).
 
 **Tabel 2.7 — Kualifikasi Pendidikan Dosen**
 
 | Kualifikasi | Jumlah | Persentase |
 |-------------|--------|------------|
-| Doktor (S3) | [n] | [%] |
-| Magister (S2) | [n] | [%] |
+| Doktor (S3) | 1 | 17% |
+| Magister (S2) | 5 | 83% |
 | Sedang studi S3 | [n] | [%] |
-| **Total** | **[n]** | **100%** |
+| **Total** | **6** | **100%** |
 
 ### 2.8.3 Tenaga Kependidikan
 
-Tenaga kependidikan yang mendukung operasional program studi tercantum pada Tabel 2.8.
+Tenaga kependidikan yang mendukung operasional program studi tercantum pada Tabel 2.8 (contoh ilustrasi).
 
 **Tabel 2.8 — Tenaga Kependidikan**
 
 | No. | Jabatan | Jumlah | Kualifikasi |
 |----|---------|--------|-------------|
-| 1 | Staf Administrasi | [n] | [Min. D3/S1] |
-| 2 | Laboran / Teknisi Laboratorium | [n] | [Min. D3/S1] |
-| 3 | Pustakawan | [n] | [S1 Perpustakaan] |
+| 1 | Staf Administrasi | *(Contoh)* 1 | Min. D3/S1 |
+| 2 | Laboran / Teknisi Laboratorium | *(Contoh)* 2 | Min. D3/S1 |
+| 3 | Pustakawan | *(Contoh)* 1 | S1 Perpustakaan |
 
 ---
 
@@ -250,11 +184,11 @@ Program studi didukung sejumlah laboratorium sesuai bidang keahlian, sebagaimana
 
 | No. | Nama Laboratorium | Kapasitas | Peralatan Utama | Status |
 |----|-------------------|-----------|-----------------|--------|
-| 1 | Lab. Pemrograman & Rekayasa Perangkat Lunak | [n] komputer | PC/Laptop, IDE, Server Development | Aktif |
-| 2 | Lab. Jaringan Komputer & IoT | [n] workstation | Cisco Router/Switch, Raspberry Pi, Arduino | Aktif |
-| 3 | Lab. Multimedia & Desain | [n] komputer | Workstation high-spec, perangkat kreatif | Aktif |
-| 4 | Lab. Data Science & AI | [n] komputer | GPU Server, Python/R Environment | Aktif |
-| 5 | Lab. Keamanan Siber | [n] workstation | Sandbox network, cybersecurity tools | Aktif |
+| 1 | Lab. Pemrograman & Rekayasa Perangkat Lunak | *(Contoh)* 30 komputer | PC/Laptop, IDE, Server Development | Aktif |
+| 2 | Lab. Jaringan Komputer & IoT | *(Contoh)* 20 workstation | Cisco Router/Switch, Raspberry Pi, Arduino | Aktif |
+| 3 | Lab. Multimedia & Desain | *(Contoh)* 20 komputer | Workstation high-spec, perangkat kreatif | Aktif |
+| 4 | Lab. Data Science & AI | *(Contoh)* 15 komputer | GPU Server, Python/R Environment | Aktif |
+| 5 | Lab. Keamanan Siber | *(Contoh)* 15 workstation | Sandbox network, cybersecurity tools | Aktif |
 
 ### 2.9.2 Fasilitas Pendukung
 
@@ -264,28 +198,28 @@ Selain laboratorium, tersedia fasilitas pendukung pembelajaran sebagaimana disaj
 
 | No. | Fasilitas | Keterangan |
 |----|-----------|------------|
-| 1 | Ruang Kuliah | [n] ruang @ [kapasitas] kursi, ber-AC, LCD projektor |
+| 1 | Ruang Kuliah | *(Contoh)* 8 ruang @ 40 kursi, ber-AC, LCD projektor |
 | 2 | Perpustakaan | Koleksi digital dan fisik, akses e-journal (Scopus, IEEE Xplore, dll.) |
-| 3 | Ruang Dosen | [n] ruang, dilengkapi fasilitas kerja dan konsultasi |
-| 4 | Akses Internet | WiFi kampus, kecepatan ≥ [n] Mbps |
-| 5 | LMS (Learning Management System) | [Nama LMS — Moodle/SPADA/Google Classroom] |
+| 3 | Ruang Dosen | *(Contoh)* 2 ruang, dilengkapi fasilitas kerja dan konsultasi |
+| 4 | Akses Internet | WiFi kampus, kecepatan ≥ *(Contoh)* 100 Mbps |
+| 5 | LMS (Learning Management System) | *(Contoh — Moodle/SPADA/Google Classroom)* |
 | 6 | Ruang Capstone & Co-working | Ruang kolaborasi untuk proyek Capstone |
 
 ---
 
 ## 2.10 Kemitraan dan Kerjasama
 
-> *[Bagian ini diisi dengan daftar MoU aktual]*
+> ⚠️ **CONTOH — perlu diganti data riil:** Isi dengan daftar MoU aktual ISTEK-AK.
 
 **Tabel 2.11 — Daftar Kemitraan dan Kerjasama**
 
 | No. | Mitra | Jenis Kerjasama | Manfaat untuk Prodi |
 |----|-------|-----------------|---------------------|
-| 1 | [Nama Perusahaan TI] | Magang, rekrutmen | MoU MBKM, kunjungan industri |
-| 2 | [Nama Rumah Sakit/Klinik] | Riset e-health, magang | Praktik kerja bidang kesehatan |
-| 3 | [Nama Instansi Pemerintah] | KKN, pengabdian masyarakat | Digitalisasi layanan publik |
-| 4 | [Nama Perguruan Tinggi Luar Negeri] | Student exchange, joint research | Internasionalisasi |
-| 5 | [Nama Komunitas IT] | Workshop, seminar, sertifikasi | Pengembangan kompetensi mahasiswa |
+| 1 | *(Contoh)* Perusahaan Teknologi Lokal/Nasional | Magang, rekrutmen | MoU MBKM, kunjungan industri |
+| 2 | *(Contoh)* Rumah Sakit/Klinik Mitra di Kendari | Riset e-health, magang | Praktik kerja bidang kesehatan |
+| 3 | *(Contoh)* Pemerintah Kota/Provinsi Sulawesi Tenggara | KKN, pengabdian masyarakat | Digitalisasi layanan publik |
+| 4 | *(Contoh)* Perguruan Tinggi Mitra Luar Negeri | Student exchange, joint research | Internasionalisasi |
+| 5 | *(Contoh)* Komunitas IT Lokal | Workshop, seminar, sertifikasi | Pengembangan kompetensi mahasiswa |
 
 ---
 
@@ -297,11 +231,11 @@ Status akreditasi program studi saat ini dan targetnya diringkas pada Tabel 2.12
 
 | Lembaga | Status | Nilai/Peringkat | Masa Berlaku |
 |---------|--------|-----------------|--------------|
-| BAN-PT (Nasional) | [Terakreditasi] | [Unggul/Baik Sekali/Baik] | [Tanggal] |
-| IABEE (Internasional) | [Terproses/Terakreditasi] | — | [Tanggal] |
+| BAN-PT (Nasional) | *(Contoh — ganti data riil)* | Baik/Baik Sekali/Unggul | [Tanggal] |
+| IABEE (Internasional) | *(Contoh — Belum Diajukan/Terproses/Terakreditasi)* | — | [Tanggal] |
 
 **Target Akreditasi:**
-- Mempertahankan peringkat **Unggul** BAN-PT pada siklus akreditasi berikutnya
+- Mempertahankan/meningkatkan peringkat akreditasi BAN-PT pada siklus akreditasi berikutnya
 - Memperoleh akreditasi **IABEE** sebelum tahun 2030 sebagai bukti pemenuhan standar OBE internasional
 
 ---

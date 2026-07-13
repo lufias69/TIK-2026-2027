@@ -99,7 +99,23 @@ Setiap entri CPMK mencantumkan: rumusan, Bahan Kajian sumber, dan daftar Mata Ku
 | CPMK-CPL06-02 | Mahasiswa mampu membangun (C6) model machine learning/deep learning untuk menyelesaikan masalah kecerdasan buatan. | BK21 | TIN4121, TIN5246, TIN4123, TIN5117 |
 | CPMK-CPL06-03 | Mahasiswa mampu menerapkan (C3) teknik data mining dan analitik data untuk menghasilkan wawasan bisnis. | BK22 | TIN4123, TIN5117, TIN5123, TIN6250 |
 
-**Total: 42 CPMK** (CPL01: 6, CPL02: 10, CPL03: 10, CPL04: 9, CPL05: 4, CPL06: 3).
+### CPL07 — Sikap dan Wawasan Keislaman (Al-Islam Kemuhammadiyahan) (1 CPMK) *(BARU)*
+
+> CPL07 ditambahkan sebagai amandemen (lihat *Pemetaan-Detail-Bahan-Kajian.md* §2.1) agar BK29 memiliki CPMK utama eksplisit di ranah Sikap Keislaman. CPMK-CPL02-10 (BK29, di bawah) **tetap ada** sebagai kandidat pendukung.
+
+| Kode | Rumusan CPMK | BK Sumber | Mata Kuliah Terhubung |
+|------|--------------|:---:|------------------------|
+| CPMK-CPL07-01 | Mahasiswa mampu menginternalisasi (A4, ranah afektif) nilai keimanan, akhlak, ibadah, dan muamalah sesuai paham Al-Islam dan Kemuhammadiyahan dalam kehidupan akademik dan profesi TI. | BK29 | INS1101, INS2102, INS301, INS4104 |
+
+### CPL08 — Sikap dan Wawasan Kebangsaan (1 CPMK) *(BARU)*
+
+> CPL08 ditambahkan sebagai amandemen (lihat *Pemetaan-Detail-Bahan-Kajian.md* §2.1) agar BK28 memiliki CPMK utama eksplisit di ranah Sikap Kebangsaan. CPMK-CPL02-09 (BK28, di atas) **tetap ada** sebagai kandidat pendukung.
+
+| Kode | Rumusan CPMK | BK Sumber | Mata Kuliah Terhubung |
+|------|--------------|:---:|------------------------|
+| CPMK-CPL08-01 | Mahasiswa mampu menunjukkan (A3, ranah afektif) wawasan kebangsaan Pancasila, nasionalisme, kepekaan sosial, dan ketaatan hukum sebagai warga negara Indonesia. | BK28 | NAS1101, NAS1102, NAS2103 |
+
+**Total: 44 CPMK** (CPL01: 6, CPL02: 10, CPL03: 10, CPL04: 9, CPL05: 4, CPL06: 3, CPL07: 1 *(baru)*, CPL08: 1 *(baru)*).
 
 ---
 
@@ -109,18 +125,18 @@ Kolom "BK" mengacu ke Bahan Kajian mata kuliah (dari *Pemetaan-Detail-Bahan-Kaji
 
 | Sem | Kode | Mata Kuliah | BK | Kandidat CPMK (pilih sesuai relevansi RPS) | Jml |
 |:---:|------|-------------|----|---------------------------------------------|:---:|
-| 1 | INS1101 | AIK I | BK29 | CPMK-CPL02-10 | 1 |
+| 1 | INS1101 | AIK I | BK29 | CPMK-CPL07-01, CPMK-CPL02-10 | 2 |
 | 1 | INS1106 | Bahasa Inggris | BK08 | CPMK-CPL02-01 | 1 |
-| 1 | NAS1101 | Pancasila | BK28 | CPMK-CPL02-09 | 1 |
-| 1 | NAS1102 | Bahasa Indonesia | BK28 | CPMK-CPL02-09 | 1 |
+| 1 | NAS1101 | Pancasila | BK28 | CPMK-CPL08-01, CPMK-CPL02-09 | 2 |
+| 1 | NAS1102 | Bahasa Indonesia | BK28 | CPMK-CPL08-01, CPMK-CPL02-09 | 2 |
 | 1 | TIN1101 | Logika Informatika | BK14 | CPMK-CPL01-02 | 1 |
 | 1 | TIN1102 | Algoritma dan Pemrograman | BK10 | CPMK-CPL01-01, CPMK-CPL03-04 | 2 |
 | 1 | TIN1103 | Pengantar Teknologi Informasi | BK10, BK16 | CPMK-CPL01-01, CPMK-CPL03-04, CPMK-CPL01-03, CPMK-CPL04-08 | 4 |
 | 1 | TIN1104 | Komunikasi Data | BK26 | CPMK-CPL04-09 | 1 |
 | 1 | TIN1105 | Aljabar Linier dan Matriks | BK23 | CPMK-CPL01-06 | 1 |
-| 2 | INS2102 | AIK II | BK29 | CPMK-CPL02-10 | 1 |
+| 2 | INS2102 | AIK II | BK29 | CPMK-CPL07-01, CPMK-CPL02-10 | 2 |
 | 2 | INS2105 | Kewirausahaan | BK13 | CPMK-CPL02-03, CPMK-CPL03-06 | 2 |
-| 2 | NAS2103 | Kewarganegaraan | BK28 | CPMK-CPL02-09 | 1 |
+| 2 | NAS2103 | Kewarganegaraan | BK28 | CPMK-CPL08-01, CPMK-CPL02-09 | 2 |
 | 2 | TIN2106 | Komputer Grafis | BK20 | CPMK-CPL03-08 | 1 |
 | 2 | TIN2107 | Sistem Operasi | BK15, BK01 | CPMK-CPL04-07, CPMK-CPL04-01 | 2 |
 | 2 | TIN2108 | Struktur Data | BK10, BK14 | CPMK-CPL01-01, CPMK-CPL03-04, CPMK-CPL01-02 | 3 |
@@ -128,7 +144,7 @@ Kolom "BK" mengacu ke Bahan Kajian mata kuliah (dari *Pemetaan-Detail-Bahan-Kaji
 | 2 | TIN2110 | Kalkulus | BK23 | CPMK-CPL01-06 | 1 |
 | 2 | TIN2111 | Sistem Basis Data | BK09 | CPMK-CPL05-02, CPMK-CPL02-02 | 2 |
 | 2 | TIN2112 | Dasar-Dasar Perangkat Lunak | BK10 | CPMK-CPL01-01, CPMK-CPL03-04 | 2 |
-| 3 | INS301 | Kemuhammadiyahan dan Ke'Aisyiyahan | BK29 | CPMK-CPL02-10 | 1 |
+| 3 | INS301 | Kemuhammadiyahan dan Ke'Aisyiyahan | BK29 | CPMK-CPL07-01, CPMK-CPL02-10 | 2 |
 | 3 | TIN302 | Jaringan Komputer 1 | BK03, BK26 | CPMK-CPL04-03, CPMK-CPL04-09 | 2 |
 | 3 | TIN303 | Pemrograman Berorientasi Objek | BK10 | CPMK-CPL01-01, CPMK-CPL03-04 | 2 |
 | 3 | TIN304 | Pemrograman Web Dasar | BK06 | CPMK-CPL03-03 | 1 |
@@ -136,7 +152,7 @@ Kolom "BK" mengacu ke Bahan Kajian mata kuliah (dari *Pemetaan-Detail-Bahan-Kaji
 | 3 | TIN306 | Hardware/Software | BK16, BK12 | CPMK-CPL01-03, CPMK-CPL04-08, CPMK-CPL04-06 | 3 |
 | 3 | TIN307 | Organisasi dan Arsitektur Komputer | BK16, BK15 | CPMK-CPL01-03, CPMK-CPL04-08, CPMK-CPL04-07 | 3 |
 | 3 | TIN308 | Rekayasa Perangkat Lunak | BK10, BK13 | CPMK-CPL01-01, CPMK-CPL03-04, CPMK-CPL02-03, CPMK-CPL03-06 | 4 |
-| 4 | INS4104 | AIK IV | BK29 | CPMK-CPL02-10 | 1 |
+| 4 | INS4104 | AIK IV | BK29 | CPMK-CPL07-01, CPMK-CPL02-10 | 2 |
 | 4 | TIN4120 | Pemrograman Web Lanjut | BK06, BK05 | CPMK-CPL03-03, CPMK-CPL03-02, CPMK-CPL04-05 | 3 |
 | 4 | TIN4121 | Pengantar Kecerdasan Buatan | BK21 | CPMK-CPL06-02, CPMK-CPL01-05 | 2 |
 | 4 | TIN4122 | Embedded Sistem | BK12, BK02 | CPMK-CPL04-06, CPMK-CPL04-02 | 2 |
@@ -179,9 +195,9 @@ Kolom "BK" mengacu ke Bahan Kajian mata kuliah (dari *Pemetaan-Detail-Bahan-Kaji
 
 ## 4. Verifikasi
 
-- **CPL → CPMK:** Seluruh 6 CPL memiliki CPMK (CPL01: 6, CPL02: 10, CPL03: 10, CPL04: 9, CPL05: 4, CPL06: 3 — total 42 CPMK). ✅
-- **CPMK → Mata Kuliah:** Seluruh 42 CPMK terhubung ke minimal 2 mata kuliah (mewarisi daftar MK dari BK sumbernya sesuai *Pemetaan-Detail-Bahan-Kajian.md*). ✅
-- **Mata Kuliah → Menu CPMK:** Seluruh 65 mata kuliah memiliki menu kandidat CPMK tidak kosong (minimum 1 kandidat). ✅
+- **CPL → CPMK:** Seluruh 8 CPL memiliki CPMK (CPL01: 6, CPL02: 10, CPL03: 10, CPL04: 9, CPL05: 4, CPL06: 3, CPL07: 1, CPL08: 1 — total 44 CPMK). ✅
+- **CPMK → Mata Kuliah:** Seluruh 44 CPMK terhubung ke minimal 2 mata kuliah (mewarisi daftar MK dari BK sumbernya sesuai *Pemetaan-Detail-Bahan-Kajian.md*). ✅
+- **Mata Kuliah → Menu CPMK:** Seluruh 65 mata kuliah memiliki menu kandidat CPMK tidak kosong (minimum 1 kandidat); 7 MK AIK/Wajib Nasional (BK28/BK29) kini memiliki 2 kandidat CPMK (naik dari 1) setelah amandemen CPL07/CPL08. ✅
 - **Mata kuliah dengan kandidat < 3** (44 dari 65 MK — umumnya MK dengan 1 BK tunggal, termasuk seluruh MK Wajib Nasional/Institusi serta banyak MK Prodi/Pilihan yang bersifat spesialis-tunggal): direkomendasikan dosen pengampu menambahkan CPMK spesifik MK agar total mencapai 3–5 CPMK sesuai BAB VIII §8.1. Ini menegaskan bahwa bank CPMK berbasis BK ini adalah **titik awal (starting set)**, bukan daftar CPMK final per mata kuliah.
 
 ---
@@ -193,6 +209,7 @@ Kolom "BK" mengacu ke Bahan Kajian mata kuliah (dari *Pemetaan-Detail-Bahan-Kaji
 3. **CPMK dengan tag afektif (A3/A4)** pada BK28/BK29 mengikuti sifat MK Wajib Umum/AIK yang menilai sikap, bukan capaian kognitif teknis — penilaiannya mengacu ke Rubrik Afektif BAB X §10.3.3, bukan rubrik kognitif/analitik.
 4. **Kandidat CPMK yang tumpang-tindih antar-MK** (mis. CPMK-CPL03-04 muncul di 6 MK BK10) adalah wajar karena BK10 memang materi inti yang tersebar di banyak mata kuliah — dosen tiap MK tetap memilih Sub-CPMK yang berbeda kedalamannya sesuai posisi MK dalam alur (lihat BAB VI §6.6 Diagram Alur Prasyarat).
 5. Dokumen ini berstatus **draf untuk validasi Tim Kurikulum**, khususnya untuk memastikan rumusan CPMK selaras dengan ekspektasi dosen pengampu masing-masing mata kuliah sebelum diintegrasikan ke RPS (BAB IX).
+6. **[AMANDEMEN]** CPMK-CPL07-01 dan CPMK-CPL08-01 ditambahkan menyusul penambahan CPL07/CPL08 (lihat *Pemetaan-Detail-Bahan-Kajian.md* §2.1). CPMK-CPL02-09 dan CPMK-CPL02-10 (versi lama, anchor ke CPL02) **tidak dihapus** — kini keduanya berperan sebagai kandidat pendukung di samping CPMK utama yang baru, sehingga tidak ada data yang hilang dari versi sebelumnya.
 
 ---
 

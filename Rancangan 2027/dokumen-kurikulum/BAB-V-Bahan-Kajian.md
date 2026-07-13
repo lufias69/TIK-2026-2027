@@ -18,12 +18,13 @@ BK Program Studi S1 Teknologi Informasi dikembangkan berdasarkan:
 - **IT2017 (ACM/IEEE)** — Knowledge Areas (KA) untuk Information Technology
 - **CC2020** — Computing Curricula 2020
 - **SKKNI Bidang TI** — Unit Kompetensi SKKNI
+- **Pedoman Al-Islam dan Kemuhammadiyahan PTMA** dan **regulasi Wajib Nasional** — sumber khusus untuk BK28–BK29 (Kelompok C, baru)
 
 ---
 
 ## 5.3 Kategori Bahan Kajian
 
-BK dikelompokkan dalam **dua kategori**, sebagaimana dijelaskan pada Tabel 5.1.
+BK dikelompokkan dalam **tiga kategori**, sebagaimana dijelaskan pada Tabel 5.1.
 
 **Tabel 5.1 — Kategori Bahan Kajian**
 
@@ -31,8 +32,9 @@ BK dikelompokkan dalam **dua kategori**, sebagaimana dijelaskan pada Tabel 5.1.
 |----------|----------|-----------|
 | **Penciri Utama** | BK yang membedakan Program Studi TI dari prodi computing lainnya; wajib ada sebagai kekuatan program | 13 BK (BK01–BK13) |
 | **Penciri Pendukung** | BK yang melengkapi kompetensi TI dan memperluas wawasan; dapat menjadi basis peminatan | 14 BK (BK14–BK27) |
+| **Penciri Nasional/Institusi** *(BARU)* | BK yang membentuk sikap kebangsaan dan keislaman sebagai penciri MK Wajib Nasional/Institusi | 2 BK (BK28–BK29) |
 
-> ⚠️ **CATATAN SUMBER DATA — WAJIB DIVALIDASI PRODI:** BK01–BK11, BK22, dan BK27 bersumber langsung dari Panduan Kurikulum OBE APTIKOM 2023 dan tercatat dalam knowledge graph dokumen. Sementara **BK12–BK21 dan BK23–BK26 merupakan hasil inferensi** yang disusun berdasarkan pemetaan nama-nama mata kuliah yang ada pada struktur kurikulum. Tim Prodi wajib memverifikasi kodifikasi, penamaan, dan pengelompokan seluruh Bahan Kajian ini terhadap dokumen APTIKOM resmi sebelum dokumen disahkan.
+> ⚠️ **CATATAN SUMBER DATA — WAJIB DIVALIDASI PRODI:** BK01–BK11, BK22, dan BK27 bersumber langsung dari Panduan Kurikulum OBE APTIKOM 2023 dan tercatat dalam knowledge graph dokumen. Sementara **BK12–BK21 dan BK23–BK26 merupakan hasil inferensi** yang disusun berdasarkan pemetaan nama-nama mata kuliah yang ada pada struktur kurikulum. **BK28–BK29 merupakan usulan baru** (lihat §5.4.3) untuk memastikan mata kuliah AIK dan Wajib Nasional memiliki BK utama eksplisit. Tim Prodi wajib memverifikasi kodifikasi, penamaan, dan pengelompokan seluruh Bahan Kajian ini sebelum dokumen disahkan.
 
 ---
 
@@ -83,6 +85,17 @@ Bahan kajian penciri pendukung yang melengkapi kompetensi TI dirinci pada Tabel 
 | **BK26** | Komunikasi Data | Transmisi data, modulasi, protokol komunikasi, media transmisi | CPL04 |
 | **BK27** | Metode Penelitian dan Pengembangan | Capstone design, skripsi, proyek inovatif, karya ilmiah | CPL02, CPL03 |
 
+### Kelompok C — Penciri Nasional/Institusi (BK28–BK29) *(BARU)*
+
+> Kedua BK berikut ditambahkan sebagai amandemen (lihat *Pemetaan-Detail-Bahan-Kajian.md* §2.1) agar mata kuliah Wajib Nasional dan AIK memiliki BK utama yang eksplisit — sebelumnya mata kuliah ini tidak memiliki BK sama sekali di BAB V versi asli.
+
+**Tabel 5.3b — Daftar Bahan Kajian Penciri Nasional/Institusi (BK28–BK29)**
+
+| Kode | Nama Bahan Kajian | Deskripsi Singkat | CPL Utama |
+|------|------------------|-------------------|-----------|
+| **BK28** | Wawasan Kebangsaan | Pancasila, Bahasa Indonesia, kewarganegaraan, wawasan nasionalisme dan hak/kewajiban warga negara | **CPL08** (baru), CPL02, CPL05 (pendukung) |
+| **BK29** | Al-Islam dan Kemuhammadiyahan (AIK) | Keimanan, ibadah, muamalah, sejarah dan ideologi Muhammadiyah/'Aisyiyah, integrasi Islam-IPTEK | **CPL07** (baru), CPL02, CPL05 (pendukung) |
+
 ---
 
 ## 5.5 Matriks Bahan Kajian terhadap CPL
@@ -91,45 +104,49 @@ Tabel 5.4 memetakan setiap Bahan Kajian terhadap CPL yang didukungnya, memastika
 
 **Tabel 5.4 — Matriks Bahan Kajian terhadap CPL**
 
-| BK | Nama | CPL01 | CPL02 | CPL03 | CPL04 | CPL05 | CPL06 |
-|----|------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| BK01 | Virtual Systems and Services | | | | ✓ | | |
-| BK02 | Internet of Things | | | | ✓ | | |
-| BK03 | Jaringan Komputer | | | | ✓ | | |
-| BK04 | Teknologi Sistem Terintegrasi | | | ✓ | ✓ | | |
-| BK05 | Teknologi Platform | | | ✓ | ✓ | | |
-| BK06 | Pengembangan Aplikasi Berbasis Platform | | | ✓ | | | |
-| BK07 | Prinsip-prinsip Keamanan Siber | | | | | ✓ | |
-| BK08 | Praktek Profesional Global | | ✓ | | | | |
-| BK09 | Manajemen Data dan Informasi | | ✓ | | | ✓ | ✓ |
-| BK10 | Fundamental Pemrograman dan PL | ✓ | | ✓ | | | |
-| BK11 | Desain User Experience | | | ✓ | | | |
-| BK12 | Sistem Embedded | | | | ✓ | | |
-| BK13 | Manajemen Proyek TI | | ✓ | ✓ | | | |
-| BK14 | Logika dan Matematika Diskrit | ✓ | | | | | |
-| BK15 | Sistem Operasi | | | | ✓ | | |
-| BK16 | Arsitektur dan Organisasi Komputer | ✓ | | | | | |
-| BK17 | Analisis dan Pemodelan Sistem | | ✓ | | | | |
-| BK18 | Manajemen Sistem Informasi | | ✓ | | | ✓ | |
-| BK19 | Statistika dan Probabilitas | ✓ | | | | | ✓ |
-| BK20 | Komputasi Grafis dan Multimedia | | | ✓ | | | |
-| BK21 | Kecerdasan Buatan | ✓ | ✓ | | | | ✓ |
-| BK22 | Skalabilitas dan Analitik Data | | ✓ | | | | ✓ |
-| BK23 | Matematika Terapan | ✓ | | | | | ✓ |
-| BK24 | Metodologi Penelitian TI | | ✓ | | | | |
-| BK25 | Informatika Kesehatan | | | ✓ | | ✓ | |
-| BK26 | Komunikasi Data | | | | ✓ | | |
-| BK27 | Metode Penelitian dan Pengembangan | | ✓ | ✓ | | | |
+| BK | Nama | CPL01 | CPL02 | CPL03 | CPL04 | CPL05 | CPL06 | CPL07 | CPL08 |
+|----|------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| BK01 | Virtual Systems and Services | | | | ✓ | | | | |
+| BK02 | Internet of Things | | | | ✓ | | | | |
+| BK03 | Jaringan Komputer | | | | ✓ | | | | |
+| BK04 | Teknologi Sistem Terintegrasi | | | ✓ | ✓ | | | | |
+| BK05 | Teknologi Platform | | | ✓ | ✓ | | | | |
+| BK06 | Pengembangan Aplikasi Berbasis Platform | | | ✓ | | | | | |
+| BK07 | Prinsip-prinsip Keamanan Siber | | | | | ✓ | | | |
+| BK08 | Praktek Profesional Global | | ✓ | | | | | | |
+| BK09 | Manajemen Data dan Informasi | | ✓ | | | ✓ | ✓ | | |
+| BK10 | Fundamental Pemrograman dan PL | ✓ | | ✓ | | | | | |
+| BK11 | Desain User Experience | | | ✓ | | | | | |
+| BK12 | Sistem Embedded | | | | ✓ | | | | |
+| BK13 | Manajemen Proyek TI | | ✓ | ✓ | | | | | |
+| BK14 | Logika dan Matematika Diskrit | ✓ | | | | | | | |
+| BK15 | Sistem Operasi | | | | ✓ | | | | |
+| BK16 | Arsitektur dan Organisasi Komputer | ✓ | | | | | | | |
+| BK17 | Analisis dan Pemodelan Sistem | | ✓ | | | | | | |
+| BK18 | Manajemen Sistem Informasi | | ✓ | | | ✓ | | | |
+| BK19 | Statistika dan Probabilitas | ✓ | | | | | ✓ | | |
+| BK20 | Komputasi Grafis dan Multimedia | | | ✓ | | | | | |
+| BK21 | Kecerdasan Buatan | ✓ | ✓ | | | | ✓ | | |
+| BK22 | Skalabilitas dan Analitik Data | | ✓ | | | | ✓ | | |
+| BK23 | Matematika Terapan | ✓ | | | | | ✓ | | |
+| BK24 | Metodologi Penelitian TI | | ✓ | | | | | | |
+| BK25 | Informatika Kesehatan | | | ✓ | | ✓ | | | |
+| BK26 | Komunikasi Data | | | | ✓ | | | | |
+| BK27 | Metode Penelitian dan Pengembangan | | ✓ | ✓ | | | | | |
+| **BK28** *(baru)* | Wawasan Kebangsaan | | ✓ | | | ✓ | | | **✓** |
+| **BK29** *(baru)* | Al-Islam dan Kemuhammadiyahan | | ✓ | | | ✓ | | **✓** | |
 
 **Cakupan CPL oleh Bahan Kajian:**
 - CPL01: BK10, BK14, BK16, BK19, BK21, BK23 — *6 BK*
-- CPL02: BK08, BK09, BK13, BK17, BK18, BK21, BK22, BK24, BK27 — *9 BK*
+- CPL02: BK08, BK09, BK13, BK17, BK18, BK21, BK22, BK24, BK27, BK28, BK29 — *11 BK*
 - CPL03: BK04, BK05, BK06, BK10, BK11, BK13, BK20, BK25, BK27 — *9 BK*
 - CPL04: BK01, BK02, BK03, BK04, BK05, BK12, BK15, BK26 — *8 BK*
-- CPL05: BK07, BK09, BK18, BK25 — *4 BK*
+- CPL05: BK07, BK09, BK18, BK25, BK28, BK29 — *6 BK*
 - CPL06: BK09, BK19, BK21, BK22, BK23 — *5 BK*
+- **CPL07** *(baru)*: BK29 — *1 BK*
+- **CPL08** *(baru)*: BK28 — *1 BK*
 
-> *Catatan pembacaan matriks: Suatu Bahan Kajian dipetakan ke sebuah CPL apabila **minimal satu mata kuliah** yang mengampu BK tersebut berkontribusi pada CPL tersebut. Karena itu, tidak setiap mata kuliah pengampu suatu BK harus memetakan seluruh CPL yang terkait BK itu — keterkaitan BK–CPL bersifat agregat di tingkat kurikulum, bukan per mata kuliah individual. Pemetaan CPL per mata kuliah dirinci pada matriks MK–CPL [BAB VI §6.4].*
+> *Catatan pembacaan matriks: Suatu Bahan Kajian dipetakan ke sebuah CPL apabila **minimal satu mata kuliah** yang mengampu BK tersebut berkontribusi pada CPL tersebut. Karena itu, tidak setiap mata kuliah pengampu suatu BK harus memetakan seluruh CPL yang terkait BK itu — keterkaitan BK–CPL bersifat agregat di tingkat kurikulum, bukan per mata kuliah individual. Pemetaan CPL per mata kuliah dirinci pada matriks MK–CPL [BAB VI §6.4]. Rincian lengkap CPL, MK, dan Dokumen Rujukan per BK (termasuk MK pendukung tambahan) tersedia di *Pemetaan-Detail-Bahan-Kajian.md*.*
 
 ---
 
@@ -148,10 +165,12 @@ Keselarasan Bahan Kajian dengan standar APTIKOM, IT2017, dan SKKNI ditunjukkan p
 | BK10 | Pemrograman | Software Development | TIK.SD01 |
 | BK21 | Kecerdasan Buatan | Intelligent Systems | TIK.AI01 |
 | BK22 | Analitik Data | Data Analytics | TIK.DA01 |
+| **BK28** *(baru)* | — *(bukan cakupan APTIKOM TI)* | — | — *(mengacu UU No. 12/2012 & Permendikbudristek MKWU)* |
+| **BK29** *(baru)* | — *(bukan cakupan APTIKOM TI)* | — | — *(mengacu Pedoman AIK PTMA)* |
 | *dst.* | *dst.* | *dst.* | *dst.* |
 
-> *Tabel lengkap pemetaan SKKNI dapat dilihat pada Lampiran C.*
+> *Tabel lengkap pemetaan SKKNI dapat dilihat pada Lampiran C. BK28/BK29 tidak memiliki padanan APTIKOM/IT2017/SKKNI karena keduanya adalah kekhasan Wajib Nasional/Institusi, bukan cakupan kurikulum computing internasional — rujukan lengkap ada di Pemetaan-Detail-Bahan-Kajian.md.*
 
 ---
 
-*Bab ini menjadi dasar penyusunan matriks MK–BK pada Bab VI. Setiap mata kuliah wajib memetakan minimal 1 BK, dan setiap BK wajib ter-cover oleh minimal 1 mata kuliah aktif.*
+*Bab ini menjadi dasar penyusunan matriks MK–BK pada Bab VI. Setiap mata kuliah wajib memetakan minimal 1 BK, dan setiap BK wajib ter-cover oleh minimal 1 mata kuliah aktif — termasuk seluruh mata kuliah Wajib Nasional dan AIK yang kini tercakup melalui BK28/BK29.*

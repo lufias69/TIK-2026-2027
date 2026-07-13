@@ -2,7 +2,7 @@
 
 **Dokumen Pelengkap BAB V — Program Studi S1 Teknologi Informasi, Universitas Muhammadiyah, Kurikulum 2027**
 
-> Dokumen ini memperluas BAB V (Bahan Kajian) dengan rantai keterlacakan empat tingkat: **Bahan Kajian (BK) → CPL Prodi → Mata Kuliah Pengampu → Dokumen Rujukan**. Disusun berdasarkan BAB IV (CPL), BAB V (Bahan Kajian), BAB VI (Struktur Kurikulum — khususnya matriks MK–CPL §6.4 dan MK–BK §6.8), dan BAB VII (Deskripsi Mata Kuliah).
+> Dokumen ini memperluas BAB V (Bahan Kajian) dengan rantai keterlacakan empat tingkat: **Bahan Kajian (BK) → CPL Prodi → Mata Kuliah Pengampu → Dokumen Rujukan**, dilengkapi **Deskripsi** untuk setiap BK. Disusun berdasarkan BAB IV (CPL), BAB V (Bahan Kajian), BAB VI (Struktur Kurikulum — khususnya matriks MK–CPL §6.4 dan MK–BK §6.8), dan BAB VII (Deskripsi Mata Kuliah).
 
 ---
 
@@ -10,6 +10,7 @@
 
 | Aturan | Ketentuan |
 |--------|-----------|
+| **BK → Deskripsi** | Setiap Bahan Kajian dilengkapi deskripsi ringkas yang menjelaskan cakupan materi/konsep yang dipelajari. |
 | **BK → CPL** | Setiap Bahan Kajian dipetakan ke **2–3 CPL Prodi** (1 CPL utama + 1–2 CPL pendukung), diturunkan dari kontribusi CPL riil mata kuliah pengampunya (matriks MK–CPL BAB VI §6.4). |
 | **BK → Mata Kuliah** | Setiap Bahan Kajian diampu oleh **lebih dari 1 hingga maksimal 7 mata kuliah** (1 MK utama/pengampu inti + MK pendukung yang memuat sebagian materi BK tersebut). |
 | **Mata Kuliah → BK** | Seluruh **65 mata kuliah wajib memiliki minimal 1 BK**; satu mata kuliah dapat memiliki **lebih dari 2 Bahan Kajian** apabila cakupan materinya lintas-domain (mis. mata kuliah proyek/capstone, mata kuliah pengantar). |
@@ -19,16 +20,34 @@
 1. Ditambahkan **2 Bahan Kajian baru** — **BK28 (Wawasan Kebangsaan)** dan **BK29 (Al-Islam dan Kemuhammadiyahan)** — agar 7 mata kuliah Wajib Nasional/Institusi (Pancasila, Bahasa Indonesia, Kewarganegaraan, AIK I, AIK II, Kemuhammadiyahan, AIK IV) yang sebelumnya tidak memiliki BK kini tercakup. Total BK menjadi **29** (13 Penciri Utama + 14 Penciri Pendukung + 2 Penciri Nasional/Institusi).
 2. Sejumlah BK yang sebelumnya hanya diampu 1 mata kuliah (BK01, BK07, BK12, BK14, BK15) diperluas dengan MK pendukung agar memenuhi kaidah ">1 MK".
 3. Sejumlah BK yang sebelumnya hanya memiliki 1 CPL Utama diperluas menjadi 2–3 CPL berdasarkan kontribusi riil MK pengampunya.
+4. **Deskripsi setiap BK ditulis ulang/diperluas** dari "Deskripsi Singkat" pada BAB V Tabel 5.2/5.3 menjadi kalimat deskriptif yang lebih lengkap, dan ditambahkan deskripsi baru untuk BK28 & BK29.
 
-> ⚠️ **Status: Draf untuk validasi Prodi.** Perluasan CPL sekunder, MK pendukung, dan kode SKKNI yang tidak eksplisit di BAB V asli bersifat inferensi berbasis data kurikulum — mengikuti catatan validasi yang sama seperti BAB V §5.3 (BK12–21, BK23–26). Tim Kurikulum wajib memverifikasi terhadap dokumen APTIKOM/SKKNI resmi sebelum disahkan.
+> ⚠️ **Status: Draf untuk validasi Prodi.** Perluasan CPL sekunder, MK pendukung, deskripsi, dan kode SKKNI yang tidak eksplisit di BAB V asli bersifat inferensi berbasis data kurikulum — mengikuti catatan validasi yang sama seperti BAB V §5.3 (BK12–21, BK23–26). Tim Kurikulum wajib memverifikasi terhadap dokumen APTIKOM/SKKNI resmi sebelum disahkan.
 
 ---
 
 ## 2. Pemetaan Detail per Bahan Kajian
 
+### 2.1 Amandemen — Penambahan CPL07 dan CPL08
+
+> **Perubahan (tidak menghapus apa pun yang sudah ada):** Mata kuliah AIK (BK29) dan mata kuliah Wajib Nasional (BK28) sebelumnya hanya memiliki kontribusi *tidak langsung* ke CPL02/CPL05 (ranah Sikap). Untuk memastikan BK28 dan BK29 memiliki **CPL utama yang eksplisit**, ditambahkan **2 CPL Prodi baru**:
+
+| Kode | Nama CPL | Fokus | Rujukan SN-DIKTI (Sikap) |
+|------|----------|-------|---------------------------|
+| **CPL07** | Sikap dan Wawasan Keislaman (Al-Islam Kemuhammadiyahan) | Keimanan, akhlak, ibadah/muamalah, integrasi nilai Islam dengan IPTEK, etika akademik berbasis nilai Islam | S1, S2, S8 |
+| **CPL08** | Sikap dan Wawasan Kebangsaan | Nasionalisme, wawasan Pancasila, kepekaan sosial, ketaatan hukum, penghargaan keberagaman | S3, S4, S5, S6, S7 |
+
+- **BK29 (Al-Islam dan Kemuhammadiyahan)** → CPL utama menjadi **CPL07** (baru), dengan CPL02/CPL05 tetap sebagai pendukung (tidak diubah).
+- **BK28 (Wawasan Kebangsaan)** → CPL utama menjadi **CPL08** (baru), dengan CPL02/CPL05 tetap sebagai pendukung (tidak diubah).
+- **CPL01–CPL06 dan seluruh BK01–BK27 tidak berubah sama sekali.**
+- Rumusan lengkap CPL07/CPL08 serta pemetaannya ke CPL SN-DIKTI (S1–S10) dijelaskan di dokumen *Pemetaan-CPL-SNDIKTI.md*. Perubahan ini disarankan diintegrasikan ke BAB IV (CPL) saat validasi Prodi.
+
+---
+
 ### Kelompok A — Penciri Utama (BK01–BK13)
 
 #### BK01 — Virtual Systems and Services
+- **Deskripsi:** Bahan kajian yang mencakup virtualisasi server dan jaringan, komputasi awan (cloud computing), containerisasi (Docker/Kubernetes), serta pengelolaan dan penyediaan layanan berbasis infrastruktur virtual bagi organisasi.
 - **CPL Prodi:** CPL04 (utama — Integrasi & Administrasi Infrastruktur TI), CPL03 (pendukung — Perancangan Solusi), CPL05 (pendukung — keamanan layanan virtual/cloud)
 - **Mata Kuliah Pengampu (3):**
   | Kode | Mata Kuliah | Semester | Peran |
@@ -39,6 +58,7 @@
 - **Dokumen Rujukan:** APTIKOM 2023 (Bahan Kajian Virtual Systems); IT2017 ACM/IEEE — KA Platform Technologies; SKKNI Bidang TI TIK.CS01.
 
 #### BK02 — Internet of Things (IoT)
+- **Deskripsi:** Mencakup arsitektur sistem IoT, protokol komunikasi machine-to-machine (MQTT, CoAP), integrasi sensor dan aktuator, serta embedded computing untuk menghubungkan perangkat fisik ke jaringan digital.
 - **CPL Prodi:** CPL04 (utama), CPL03 (pendukung — perancangan solusi IoT end-to-end)
 - **Mata Kuliah Pengampu (2):**
   | Kode | Mata Kuliah | Semester | Peran |
@@ -48,6 +68,7 @@
 - **Dokumen Rujukan:** APTIKOM 2023; IT2017 ACM/IEEE — KA IoT/Embedded Systems; CC2020 (Computing Curricula 2020).
 
 #### BK03 — Jaringan Komputer
+- **Deskripsi:** Membahas arsitektur jaringan komputer, model OSI/TCP-IP, teknik routing dan switching, pengalamatan IP, serta konfigurasi jaringan kabel dan nirkabel sebagai fondasi konektivitas sistem TI.
 - **CPL Prodi:** CPL04 (utama), CPL05 (pendukung — keamanan jaringan)
 - **Mata Kuliah Pengampu (2):**
   | Kode | Mata Kuliah | Semester | Peran |
@@ -57,6 +78,7 @@
 - **Dokumen Rujukan:** APTIKOM 2023; IT2017 ACM/IEEE — KA Networking; SKKNI Bidang TI TIK.JK01.
 
 #### BK04 — Teknologi Sistem Terintegrasi
+- **Deskripsi:** Mencakup prinsip integrasi sistem heterogen melalui middleware, application programming interface (API), arsitektur berorientasi layanan (SOA), dan microservices untuk menyatukan komponen TI yang berbeda menjadi satu ekosistem yang kohesif.
 - **CPL Prodi:** CPL03 (utama), CPL04 (utama), CPL02 (pendukung — analisis kebutuhan integrasi)
 - **Mata Kuliah Pengampu (2):**
   | Kode | Mata Kuliah | Semester | Peran |
@@ -66,6 +88,7 @@
 - **Dokumen Rujukan:** APTIKOM 2023; IT2017 ACM/IEEE — KA Systems Integration & Architecture; CC2020.
 
 #### BK05 — Teknologi Platform
+- **Deskripsi:** Membahas pengembangan dan pemanfaatan platform komputasi — termasuk platform awan, platform mobile, Platform-as-a-Service (PaaS), dan Software-as-a-Service (SaaS) — sebagai fondasi pembangunan aplikasi modern.
 - **CPL Prodi:** CPL03 (utama), CPL04 (utama)
 - **Mata Kuliah Pengampu (4):**
   | Kode | Mata Kuliah | Semester | Peran |
@@ -77,6 +100,7 @@
 - **Dokumen Rujukan:** APTIKOM 2023; IT2017 ACM/IEEE — KA Platform Technologies; SKKNI Bidang TI TIK.PL05 *(indikatif, perlu validasi)*.
 
 #### BK06 — Pengembangan Aplikasi Berbasis Platform
+- **Deskripsi:** Mencakup pengembangan aplikasi web dan mobile lintas-platform, termasuk progressive web app (PWA), dengan penekanan pada praktik pengembangan aplikasi yang dapat berjalan di berbagai lingkungan platform.
 - **CPL Prodi:** CPL03 (utama), CPL04 (pendukung)
 - **Mata Kuliah Pengampu (4):**
   | Kode | Mata Kuliah | Semester | Peran |
@@ -88,6 +112,7 @@
 - **Dokumen Rujukan:** APTIKOM 2023; IT2017 ACM/IEEE — KA Web & Mobile Systems; CC2020.
 
 #### BK07 — Prinsip-prinsip Keamanan Siber
+- **Deskripsi:** Membahas dasar-dasar kriptografi, keamanan jaringan, penilaian kerentanan (vulnerability assessment), dan teknik ethical hacking untuk melindungi sistem, data, dan infrastruktur TI dari ancaman siber.
 - **CPL Prodi:** CPL05 (utama), CPL04 (pendukung)
 - **Mata Kuliah Pengampu (2):**
   | Kode | Mata Kuliah | Semester | Peran |
@@ -97,6 +122,7 @@
 - **Dokumen Rujukan:** APTIKOM 2023; IT2017 ACM/IEEE — KA Cybersecurity Pervasive Themes; SKKNI Bidang TI TIK.CS02.
 
 #### BK08 — Praktek Profesional Global
+- **Deskripsi:** Mencakup etika profesi TI, komunikasi teknis lintas budaya, kerja sama tim dalam konteks global, serta pemahaman terhadap standar dan sertifikasi profesi TI internasional.
 - **CPL Prodi:** CPL02 (utama), CPL03 (pendukung), CPL04 (pendukung — dari Magang)
 - **Mata Kuliah Pengampu (5):**
   | Kode | Mata Kuliah | Semester | Peran |
@@ -109,6 +135,7 @@
 - **Dokumen Rujukan:** APTIKOM 2023; IT2017 ACM/IEEE — KA Social & Professional Issues; Panduan MBKM Kemendikbudristek.
 
 #### BK09 — Manajemen Data dan Informasi
+- **Deskripsi:** Membahas perancangan basis data, data warehouse, tata kelola data (data governance), dan manajemen informasi sebagai aset organisasi untuk mendukung pengambilan keputusan yang akurat dan andal.
 - **CPL Prodi:** CPL05 (utama), CPL02 (utama), CPL06 (pendukung — data untuk analitik)
 - **Mata Kuliah Pengampu (5):**
   | Kode | Mata Kuliah | Semester | Peran |
@@ -121,6 +148,7 @@
 - **Dokumen Rujukan:** APTIKOM 2023; IT2017 ACM/IEEE — KA Data Management; SKKNI Bidang TI TIK.DB01.
 
 #### BK10 — Fundamental Pemrograman dan PL
+- **Deskripsi:** Mencakup konsep algoritma, struktur data, berbagai paradigma pemrograman, serta prinsip rekayasa perangkat lunak (SDLC, requirement, desain, pengujian) sebagai fondasi pengembangan solusi berbasis computing.
 - **CPL Prodi:** CPL01 (utama), CPL03 (utama), CPL02 (pendukung — RPL)
 - **Mata Kuliah Pengampu (6):**
   | Kode | Mata Kuliah | Semester | Peran |
@@ -134,6 +162,7 @@
 - **Dokumen Rujukan:** APTIKOM 2023; IT2017 ACM/IEEE — KA Programming Fundamentals; SKKNI Bidang TI TIK.SD01.
 
 #### BK11 — Desain User Experience
+- **Deskripsi:** Membahas prinsip interaksi manusia-komputer (HCI), riset pengguna, prototyping, pengujian usability, dan aksesibilitas untuk menghasilkan antarmuka dan pengalaman pengguna yang efektif serta inklusif.
 - **CPL Prodi:** CPL03 (utama), CPL02 (pendukung)
 - **Mata Kuliah Pengampu (2):**
   | Kode | Mata Kuliah | Semester | Peran |
@@ -143,6 +172,7 @@
 - **Dokumen Rujukan:** APTIKOM 2023; IT2017 ACM/IEEE — KA User Experience & HCI; CC2020.
 
 #### BK12 — Sistem Embedded
+- **Deskripsi:** Mencakup arsitektur mikrokontroler, sistem operasi real-time (RTOS), pemrograman firmware, dan antarmuka hardware-software untuk pengembangan sistem tertanam pada perangkat fisik.
 - **CPL Prodi:** CPL04 (utama), CPL01 (pendukung — dasar arsitektur), CPL03 (pendukung)
 - **Mata Kuliah Pengampu (3):**
   | Kode | Mata Kuliah | Semester | Peran |
@@ -153,6 +183,7 @@
 - **Dokumen Rujukan:** APTIKOM 2023; IT2017 ACM/IEEE — KA IoT/Embedded; SKKNI Bidang TI TIK.EMB01 *(indikatif, perlu validasi)*.
 
 #### BK13 — Manajemen Proyek TI
+- **Deskripsi:** Membahas metodologi manajemen proyek (Agile/Scrum/Waterfall), estimasi sumber daya, penjadwalan, dan manajemen risiko dalam merencanakan dan mengeksekusi proyek pengembangan TI.
 - **CPL Prodi:** CPL02 (utama), CPL03 (utama)
 - **Mata Kuliah Pengampu (6):**
   | Kode | Mata Kuliah | Semester | Peran |
@@ -170,6 +201,7 @@
 ### Kelompok B — Penciri Pendukung (BK14–BK27)
 
 #### BK14 — Logika dan Matematika Diskrit
+- **Deskripsi:** Mencakup logika proposisional dan predikat, teori himpunan, teori graf, dan kombinatorik sebagai fondasi berpikir komputasional untuk perancangan algoritma dan sistem digital.
 - **CPL Prodi:** CPL01 (utama), CPL03 (pendukung — struktur diskrit untuk algoritma)
 - **Mata Kuliah Pengampu (2):**
   | Kode | Mata Kuliah | Semester | Peran |
@@ -179,6 +211,7 @@
 - **Dokumen Rujukan:** APTIKOM 2023; IT2017 ACM/IEEE — KA Computing & Computation Foundations; CC2020.
 
 #### BK15 — Sistem Operasi
+- **Deskripsi:** Membahas manajemen proses, penjadwalan CPU, sinkronisasi, manajemen memori, sistem berkas, dan mekanisme internal sistem operasi modern.
 - **CPL Prodi:** CPL04 (utama), CPL01 (pendukung)
 - **Mata Kuliah Pengampu (2):**
   | Kode | Mata Kuliah | Semester | Peran |
@@ -188,6 +221,7 @@
 - **Dokumen Rujukan:** APTIKOM 2023; IT2017 ACM/IEEE — KA Systems Administration & Maintenance; CC2020.
 
 #### BK16 — Arsitektur dan Organisasi Komputer
+- **Deskripsi:** Mencakup arsitektur CPU, hierarki memori, sistem input/output, dan dasar-dasar komputasi paralel yang mendasari cara kerja perangkat keras komputer.
 - **CPL Prodi:** CPL01 (utama), CPL04 (utama), CPL02 (pendukung)
 - **Mata Kuliah Pengampu (3):**
   | Kode | Mata Kuliah | Semester | Peran |
@@ -198,6 +232,7 @@
 - **Dokumen Rujukan:** APTIKOM 2023; IT2017 ACM/IEEE — KA Computing & Computation Foundations; CC2020.
 
 #### BK17 — Analisis dan Pemodelan Sistem
+- **Deskripsi:** Membahas rekayasa kebutuhan (requirements engineering), pemodelan sistem menggunakan UML, serta perancangan arsitektur dan proses bisnis suatu sistem informasi.
 - **CPL Prodi:** CPL02 (utama), CPL03 (utama)
 - **Mata Kuliah Pengampu (2):**
   | Kode | Mata Kuliah | Semester | Peran |
@@ -207,6 +242,7 @@
 - **Dokumen Rujukan:** APTIKOM 2023; IT2017 ACM/IEEE — KA Requirements Analysis; SKKNI Bidang TI TIK.AN01 *(indikatif, perlu validasi)*.
 
 #### BK18 — Manajemen Sistem Informasi
+- **Deskripsi:** Mencakup strategi sistem informasi, kerangka kerja ITIL, tata kelola TI (IT governance), dan arsitektur enterprise untuk menyelaraskan TI dengan tujuan organisasi.
 - **CPL Prodi:** CPL02 (utama), CPL05 (utama)
 - **Mata Kuliah Pengampu (2):**
   | Kode | Mata Kuliah | Semester | Peran |
@@ -216,6 +252,7 @@
 - **Dokumen Rujukan:** APTIKOM 2023; IT2017 ACM/IEEE — KA IT Management; ITIL v4 Framework.
 
 #### BK19 — Statistika dan Probabilitas
+- **Deskripsi:** Membahas statistika deskriptif dan inferensial, distribusi probabilitas, uji hipotesis, dan analisis regresi sebagai dasar kuantitatif untuk analisis dan pengambilan keputusan berbasis data.
 - **CPL Prodi:** CPL06 (utama), CPL01 (utama), CPL02 (pendukung)
 - **Mata Kuliah Pengampu (2):**
   | Kode | Mata Kuliah | Semester | Peran |
@@ -225,6 +262,7 @@
 - **Dokumen Rujukan:** APTIKOM 2023; IT2017 ACM/IEEE — KA Data Science & Analytics; CC2020.
 
 #### BK20 — Komputasi Grafis dan Multimedia
+- **Deskripsi:** Mencakup grafika komputer 2D/3D, pengolahan citra, video, dan audio, serta pengembangan sistem multimedia interaktif.
 - **CPL Prodi:** CPL03 (utama), CPL06 (pendukung — pengolahan citra/visual untuk analitik)
 - **Mata Kuliah Pengampu (2):**
   | Kode | Mata Kuliah | Semester | Peran |
@@ -234,6 +272,7 @@
 - **Dokumen Rujukan:** APTIKOM 2023; IT2017 ACM/IEEE — KA Graphics & Visualization; CC2020.
 
 #### BK21 — Kecerdasan Buatan
+- **Deskripsi:** Membahas machine learning, deep learning, natural language processing (NLP), computer vision, serta prinsip etika dalam pengembangan dan penerapan kecerdasan buatan.
 - **CPL Prodi:** CPL06 (utama), CPL01 (utama), CPL02 (pendukung)
 - **Mata Kuliah Pengampu (4):**
   | Kode | Mata Kuliah | Semester | Peran |
@@ -245,6 +284,7 @@
 - **Dokumen Rujukan:** APTIKOM 2023; IT2017 ACM/IEEE — KA Intelligent Systems (AI/ML); SKKNI Bidang TI TIK.AI01.
 
 #### BK22 — Skalabilitas dan Analitik Data
+- **Deskripsi:** Mencakup pengelolaan big data, pipeline data, teknik data mining, business intelligence, dan visualisasi data untuk menghasilkan wawasan yang mendukung pengambilan keputusan berskala besar.
 - **CPL Prodi:** CPL06 (utama), CPL02 (utama), CPL01 (pendukung)
 - **Mata Kuliah Pengampu (4):**
   | Kode | Mata Kuliah | Semester | Peran |
@@ -256,6 +296,7 @@
 - **Dokumen Rujukan:** APTIKOM 2023; IT2017 ACM/IEEE — KA Data Science & Analytics; SKKNI Bidang TI TIK.DA01.
 
 #### BK23 — Matematika Terapan
+- **Deskripsi:** Membahas kalkulus, aljabar linier, persamaan diferensial, transformasi, dan metode numerik sebagai alat kuantitatif untuk pemodelan dan komputasi.
 - **CPL Prodi:** CPL01 (utama), CPL06 (pendukung — dasar model kuantitatif untuk analitik)
 - **Mata Kuliah Pengampu (3):**
   | Kode | Mata Kuliah | Semester | Peran |
@@ -266,6 +307,7 @@
 - **Dokumen Rujukan:** APTIKOM 2023; IT2017 ACM/IEEE — KA Mathematical & Statistical Foundations; CC2020.
 
 #### BK24 — Metodologi Penelitian TI
+- **Deskripsi:** Mencakup perancangan penelitian (research design), kajian literatur, teknik pengumpulan dan analisis data, serta penulisan karya ilmiah di bidang teknologi informasi.
 - **CPL Prodi:** CPL02 (utama), CPL03 (pendukung)
 - **Mata Kuliah Pengampu (2):**
   | Kode | Mata Kuliah | Semester | Peran |
@@ -275,6 +317,7 @@
 - **Dokumen Rujukan:** APTIKOM 2023; Pedoman Penulisan Karya Ilmiah Prodi; IT2017 ACM/IEEE — KA Social & Professional Issues.
 
 #### BK25 — Informatika Kesehatan
+- **Deskripsi:** Membahas sistem informasi kesehatan, standar interoperabilitas data kesehatan (HL7/FHIR), rekam medis elektronik, dan telemedicine sebagai penerapan TI di sektor kesehatan.
 - **CPL Prodi:** CPL03 (utama), CPL05 (utama), CPL02 (pendukung)
 - **Mata Kuliah Pengampu (3):**
   | Kode | Mata Kuliah | Semester | Peran |
@@ -285,6 +328,7 @@
 - **Dokumen Rujukan:** APTIKOM 2023; Standar HL7/FHIR (interoperabilitas kesehatan); IT2017 ACM/IEEE — KA Data Management.
 
 #### BK26 — Komunikasi Data
+- **Deskripsi:** Mencakup konsep transmisi data, teknik modulasi dan encoding, multiplexing, deteksi/koreksi error, serta protokol komunikasi dasar sebagai pengantar jaringan komputer.
 - **CPL Prodi:** CPL04 (utama), CPL03 (pendukung)
 - **Mata Kuliah Pengampu (2):**
   | Kode | Mata Kuliah | Semester | Peran |
@@ -294,6 +338,7 @@
 - **Dokumen Rujukan:** APTIKOM 2023; IT2017 ACM/IEEE — KA Networking; CC2020.
 
 #### BK27 — Metode Penelitian dan Pengembangan
+- **Deskripsi:** Membahas perancangan proyek akhir (capstone design), penyusunan skripsi, pengembangan proyek inovatif, dan penulisan karya ilmiah sebagai puncak integrasi kompetensi mahasiswa.
 - **CPL Prodi:** CPL02 (utama), CPL03 (utama), CPL01 (pendukung — Skripsi)
 - **Mata Kuliah Pengampu (5):**
   | Kode | Mata Kuliah | Semester | Peran |
@@ -310,9 +355,9 @@
 ### Kelompok C — Penciri Nasional/Institusi (BK28–BK29) *(BARU)*
 
 #### BK28 — Wawasan Kebangsaan
-> Bahan kajian ini membentuk sikap dan wawasan kebangsaan mahasiswa sebagai warga negara Indonesia. Tidak dipetakan sebagai kontribusi teknis langsung ke CPL01–CPL06, melainkan kontribusi tidak langsung ke ranah **Sikap** (SN-Dikti Pasal 6) yang menopang CPL, sesuai catatan BAB IV §4.7.1 dan matriks Sikap SN-Dikti (Tabel 4.3).
-
-- **CPL Prodi (kontribusi sikap, tidak langsung):** CPL02 (pendukung — butir sikap c/d: kontribusi mutu kehidupan bermasyarakat, kepekaan sosial), CPL05 (pendukung — butir sikap e: taat hukum dan disiplin)
+- **Deskripsi:** Membentuk pemahaman mahasiswa mengenai dasar negara Pancasila, kaidah berbahasa Indonesia yang baik dan benar, serta hak dan kewajiban warga negara — sebagai fondasi sikap kebangsaan dan nasionalisme lulusan.
+- **CPL Prodi:** **CPL08 — Sikap dan Wawasan Kebangsaan (utama, BARU — lihat §2.1 amandemen)**; CPL02 (pendukung — butir sikap c/d: kontribusi mutu kehidupan bermasyarakat, kepekaan sosial), CPL05 (pendukung — butir sikap e: taat hukum dan disiplin)
+  > *Amandemen:* sebelumnya BK28 hanya memiliki kontribusi sikap tidak langsung ke CPL02/CPL05. Ditambahkan **CPL08** sebagai CPL utama khusus ranah Sikap Kebangsaan (SN-Dikti S3, S4, S5, S6, S7) agar BK28 memiliki CPL utama yang eksplisit, tanpa menghapus keterkaitan CPL02/CPL05 yang sudah ada.
 - **Mata Kuliah Pengampu (3):**
   | Kode | Mata Kuliah | Semester | Peran |
   |------|-------------|:--:|-------|
@@ -322,9 +367,9 @@
 - **Dokumen Rujukan:** UU No. 12 Tahun 2012 tentang Pendidikan Tinggi; SK Dirjen Belmawa tentang Kurikulum Inti MK Wajib Umum (Pancasila, Bahasa Indonesia, Kewarganegaraan); Permendikbudristek No. 3 Tahun 2020 (SN-Dikti).
 
 #### BK29 — Al-Islam dan Kemuhammadiyahan (AIK)
-> Bahan kajian penciri khas Universitas Muhammadiyah. Kontribusi tidak langsung ke ranah **Sikap**, khususnya butir a/b/f/h (Tabel 4.3) yang mendasari etika profesi, kemandirian, dan kewirausahaan lulusan.
-
-- **CPL Prodi (kontribusi sikap, tidak langsung):** CPL02 (pendukung — butir sikap h: kemandirian & kewirausahaan, relevan dengan AIK II/Muamalah), CPL05 (pendukung — butir sikap f: internalisasi nilai, norma, dan etika akademik)
+- **Deskripsi:** Menanamkan pemahaman keimanan, ibadah, muamalah, sejarah dan ideologi gerakan Muhammadiyah/Aisyiyah, serta integrasi nilai-nilai Islam dengan perkembangan ilmu pengetahuan dan teknologi — sebagai penciri khas lulusan Universitas Muhammadiyah.
+- **CPL Prodi:** **CPL07 — Sikap dan Wawasan Keislaman (Al-Islam Kemuhammadiyahan) (utama, BARU — lihat §2.1 amandemen)**; CPL02 (pendukung — butir sikap h: kemandirian & kewirausahaan, relevan dengan AIK II/Muamalah), CPL05 (pendukung — butir sikap f: internalisasi nilai, norma, dan etika akademik)
+  > *Amandemen:* sebelumnya BK29 hanya memiliki kontribusi sikap tidak langsung ke CPL02/CPL05. Ditambahkan **CPL07** sebagai CPL utama khusus ranah Sikap Keislaman (SN-Dikti S1, S2, S8) agar BK29 memiliki CPL utama yang eksplisit, tanpa menghapus keterkaitan CPL02/CPL05 yang sudah ada.
 - **Mata Kuliah Pengampu (4):**
   | Kode | Mata Kuliah | Semester | Peran |
   |------|-------------|:--:|-------|
@@ -367,10 +412,10 @@
 | BK25 | Informatika Kesehatan | 3 | 3 | 3 | ✅ |
 | BK26 | Komunikasi Data | 2 | 2 | 3 | ✅ |
 | BK27 | Metode Penelitian & Pengembangan | 3 | 5 | 3 | ✅ |
-| BK28 | Wawasan Kebangsaan *(baru)* | 2 | 3 | 3 | ✅ |
-| BK29 | Al-Islam dan Kemuhammadiyahan *(baru)* | 2 | 4 | 3 | ✅ |
+| BK28 | Wawasan Kebangsaan *(baru)* | 3 | 3 | 3 | ✅ |
+| BK29 | Al-Islam dan Kemuhammadiyahan *(baru)* | 3 | 4 | 3 | ✅ |
 
-**Hasil verifikasi:** Seluruh 29 BK memenuhi kaidah 2–3 CPL, >1–7 Mata Kuliah, dan ≥2 (di sini seragam 3) Dokumen Rujukan.
+**Hasil verifikasi:** Seluruh 29 BK memenuhi kaidah 2–3 CPL, >1–7 Mata Kuliah, dan ≥2 (di sini seragam 3) Dokumen Rujukan, serta memiliki deskripsi.
 
 ---
 
@@ -454,9 +499,11 @@ Tabel berikut memverifikasi bahwa **setiap mata kuliah memiliki minimal 1 BK**; 
 
 1. **BK28 dan BK29 bersifat usulan baru** untuk memenuhi syarat "seluruh MK harus punya BK" — Prodi perlu memutuskan apakah pendekatan ini diterima, atau MK Wajib Nasional/Institusi tetap dikecualikan dari matriks BK (karena secara konsep BK biasanya khusus kompetensi teknis TI, bukan MK Wajib Umum/Karakter).
 2. **CPL sekunder/pendukung** pada tiap BK adalah hasil inferensi dari matriks MK–CPL (BAB VI §6.4), bukan dari dokumen APTIKOM resmi — perlu verifikasi oleh Tim Kurikulum.
-3. **MK pendukung tambahan** (mis. Sistem Operasi & Teknologi Platform sebagai pendukung BK01; Hardware/Software sebagai pendukung BK12/BK15) mencerminkan tumpang-tindih materi yang wajar dalam kurikulum terintegrasi, namun sebaiknya dikonfirmasi ke dosen pengampu RPS masing-masing.
-4. **Kode SKKNI yang ditandai "indikatif, perlu validasi"** (BK05, BK12, BK17) mengikuti pola penomoran dokumen asli namun belum terverifikasi terhadap SKKNI resmi Bidang TI.
-5. Dokumen ini **melengkapi, bukan menggantikan**, BAB V (Bahan Kajian) dan BAB VI §6.8 (Matriks MK–BK) — setelah divalidasi, disarankan hasil pemetaan ini diintegrasikan kembali ke BAB V/VI agar dokumen kurikulum tetap satu sumber kebenaran (single source of truth).
+3. **Deskripsi setiap BK** merupakan pengembangan naratif dari "Deskripsi Singkat" BAB V Tabel 5.2/5.3, ditulis ulang menjadi kalimat deskriptif lengkap; deskripsi BK28/BK29 sepenuhnya baru dan perlu diselaraskan dengan silabus resmi MK Wajib Umum/AIK di tingkat universitas.
+4. **MK pendukung tambahan** (mis. Sistem Operasi & Teknologi Platform sebagai pendukung BK01; Hardware/Software sebagai pendukung BK12/BK15) mencerminkan tumpang-tindih materi yang wajar dalam kurikulum terintegrasi, namun sebaiknya dikonfirmasi ke dosen pengampu RPS masing-masing.
+5. **Kode SKKNI yang ditandai "indikatif, perlu validasi"** (BK05, BK12, BK17) mengikuti pola penomoran dokumen asli namun belum terverifikasi terhadap SKKNI resmi Bidang TI.
+6. Dokumen ini **melengkapi, bukan menggantikan**, BAB V (Bahan Kajian) dan BAB VI §6.8 (Matriks MK–BK) — setelah divalidasi, disarankan hasil pemetaan ini diintegrasikan kembali ke BAB V/VI agar dokumen kurikulum tetap satu sumber kebenaran (single source of truth).
+7. **[AMANDEMEN]** CPL07 (Sikap dan Wawasan Keislaman) dan CPL08 (Sikap dan Wawasan Kebangsaan) ditambahkan sebagai CPL utama baru untuk BK29 dan BK28 secara berturut-turut (lihat §2.1), agar mata kuliah AIK dan mata kuliah Wajib Nasional memiliki CPL utama eksplisit — tanpa mengubah CPL01–CPL06 maupun BK01–BK27 yang sudah ada. Lihat *Pemetaan-CPL-SNDIKTI.md* untuk rumusan lengkap CPL07/CPL08 dan pemetaannya ke CPL SN-DIKTI (S1–S10) dari PANDUAN KURIKULUM OBE APTIKOM 2023.
 
 ---
 

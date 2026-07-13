@@ -6,11 +6,11 @@ Dalam kerangka OBE, CPL diturunkan menjadi capaian yang lebih spesifik pada ting
 
 ```
 CPL (Capaian Pembelajaran Lulusan)
-   ↓ diturunkan menjadi
+ ↓ diturunkan menjadi
 CPMK (Capaian Pembelajaran Mata Kuliah)
-   ↓ dirinci menjadi
+ ↓ dirinci menjadi
 Sub-CPMK (indikator terukur per tahap pembelajaran)
-   ↓ dinilai melalui
+ ↓ dinilai melalui
 Asesmen (tugas, kuis, UTS, UAS, proyek)
 ```
 
@@ -24,6 +24,8 @@ Definisi istilah CPMK dan Sub-CPMK diberikan pada Tabel 8.1.
 |---------|----------|
 | **CPMK** | Kemampuan yang dibebankan pada mata kuliah untuk mendukung pencapaian CPL. Satu MK memiliki 3–5 CPMK. |
 | **Sub-CPMK** | Kemampuan akhir tiap tahap belajar yang bersifat spesifik, terukur, dan dapat diamati; menjadi dasar penilaian mingguan. |
+
+> **[AMANDEMEN]** Bank CPMK lengkap (44 CPMK, mencakup CPL01–CPL08) yang di-anchor melalui Bahan Kajian tersedia di dokumen pelengkap *Pemetaan-CPMK.md*. Bab ini memuat kaidah perumusan dan contoh penurunan lengkap (§8.4), termasuk contoh baru untuk mata kuliah AIK/Wajib Nasional (Contoh 7).
 
 ---
 
@@ -62,6 +64,8 @@ Tingkatan ranah afektif dan psikomotor beserta KKO-nya ditunjukkan pada Tabel 8.
 | Afektif | A1–A5 | menerima, merespons, menghargai, mengorganisasi, menginternalisasi |
 | Psikomotor | P1–P5 | meniru, memanipulasi, mempresisikan, mengartikulasi, menaturalisasi |
 
+> **Catatan:** CPMK mata kuliah AIK dan Wajib Nasional (CPL07/CPL08) menggunakan **ranah Afektif (A3–A4)**, bukan ranah Kognitif, karena capaian yang diukur adalah sikap dan internalisasi nilai — lihat Contoh 7 pada §8.4.
+
 ---
 
 ## 8.3 Prinsip Traceability (Keterlacakan)
@@ -70,8 +74,8 @@ Setiap CPMK **wajib** dapat ditelusuri ke minimal satu CPL. Setiap Sub-CPMK **wa
 
 ```
 CPL03 ──→ CPMK-2 (MK: PBO) ──→ Sub-CPMK 2.1
-                             └─→ Sub-CPMK 2.2
-                             └─→ Sub-CPMK 2.3
+ └─→ Sub-CPMK 2.2
+ └─→ Sub-CPMK 2.3
 ```
 
 **Gambar 8.2 — Ilustrasi Keterlacakan CPL → CPMK → Sub-CPMK**
@@ -219,6 +223,31 @@ Berikut contoh penurunan CPL → CPMK → Sub-CPMK untuk mata kuliah representat
 
 ---
 
+### Contoh 7 — INS1101 AIK I: Keimanan, Kemanusiaan dan Akhlak (2 SKS) *(BARU)*
+
+**CPL didukung:** CPL07 (utama)
+
+> Contoh ini melengkapi Bab VIII agar mata kuliah AIK/Wajib Nasional (CPL07/CPL08) turut memiliki penurunan CPMK → Sub-CPMK lengkap, mengikuti amandemen BAB IV/V. CPMK inti (CPMK-1) diambil dari bank CPMK **CPMK-CPL07-01** (lihat *Pemetaan-CPMK.md*), dirinci menjadi CPMK tambahan spesifik mata kuliah agar memenuhi rentang 3–5 CPMK per BAB VIII §8.1.
+
+| Kode | CPMK | CPL | Ranah |
+|------|------|:---:|:-----:|
+| CPMK-1 | Mahasiswa mampu **menerima dan menginternalisasi** (A3–A4) konsep keimanan (aqidah) dalam Islam *(diwarisi dari CPMK-CPL07-01)* | CPL07 | Afektif |
+| CPMK-2 | Mahasiswa mampu **menjelaskan** (C2) konsep kemanusiaan dan akhlak Islami | CPL07 | Kognitif |
+| CPMK-3 | Mahasiswa mampu **menunjukkan** (A3) perilaku berakhlak mulia dalam kehidupan akademik sehari-hari | CPL07 | Afektif |
+
+| Kode | Sub-CPMK | CPMK |
+|------|----------|:----:|
+| Sub-CPMK 1.1 | Menjelaskan rukun iman dan implikasinya terhadap sikap hidup | CPMK-1 |
+| Sub-CPMK 1.2 | Merefleksikan penerapan aqidah dalam pengambilan keputusan sehari-hari | CPMK-1 |
+| Sub-CPMK 2.1 | Menjelaskan konsep kemanusiaan (insaniyah) dalam perspektif Islam | CPMK-2 |
+| Sub-CPMK 2.2 | Mengklasifikasikan jenis-jenis akhlak (mahmudah/madzmumah) | CPMK-2 |
+| Sub-CPMK 3.1 | Menunjukkan sikap jujur dan bertanggung jawab dalam tugas akademik | CPMK-3 |
+| Sub-CPMK 3.2 | Menunjukkan sikap hormat dan toleran dalam interaksi kampus | CPMK-3 |
+
+> *Pola CPMK/Sub-CPMK di atas dapat diadaptasi untuk mata kuliah AIK lain (INS2102, INS301, INS4104) dan mata kuliah Wajib Nasional (NAS1101, NAS1102, NAS2103 — menggunakan CPMK-CPL08-01 sebagai CPMK inti), dengan penyesuaian materi sesuai topik masing-masing.*
+
+---
+
 ## 8.5 Rekapitulasi CPMK per Mata Kuliah
 
 Tabel berikut menunjukkan jumlah CPMK dan CPL yang didukung setiap mata kuliah inti (MKW-P). RPS lengkap dengan seluruh Sub-CPMK tercantum pada BAB IX.
@@ -259,7 +288,6 @@ Tabel berikut menunjukkan jumlah CPMK dan CPL yang didukung setiap mata kuliah i
 | TIN5120 | Perancangan & Integrasi Sistem | 4 | CPL02, CPL03, CPL04 |
 | TIN5121 | Metodologi Penelitian | 3 | CPL02 |
 | TIN5123 | Analitik Data | 3 | CPL06, CPL01, CPL02 |
-| TIN5123 | Analitik Data | 3 | CPL01, CPL02 |
 | TIN6130 | Teknologi Sistem Terintegrasi | 3 | CPL03, CPL04 |
 | TIN6131 | Teknologi Platform | 3 | CPL03, CPL04 |
 | TIN6132 | Praktek Profesional Global | 3 | CPL02 |
@@ -274,7 +302,21 @@ Tabel berikut menunjukkan jumlah CPMK dan CPL yang didukung setiap mata kuliah i
 
 > *Mata kuliah pilihan (MKP) memiliki struktur CPMK serupa; rinciannya tercantum dalam RPS masing-masing (BAB IX).*
 
-> **Catatan Cakupan:** Tabel §8.5 di atas memuat 43 mata kuliah Wajib Prodi (MKW-P). Ke-13 mata kuliah Pilihan Prodi (MKP) — seperti Kecerdasan Buatan, Sistem Basis Data Lanjut, Internet of Things, E-Health — mengikuti pola perumusan CPMK yang sama (3–4 CPMK per MK, ditelusuri ke CPL sesuai [BAB VI §6.4]) dan didokumentasikan lengkap dalam RPS masing-masing.
+> **Catatan Cakupan:** Tabel §8.5 di atas memuat 43 mata kuliah Wajib Prodi (MKW-P). Ke-13 mata kuliah Pilihan Prodi (MKP) — seperti Kecerdasan Buatan, Sistem Basis Data Lanjut, Internet of Things, E-Health — mengikuti pola perumusan CPMK yang sama (3–4 CPMK per MK, ditelusuri ke CPL sesuai [BAB VI §6.4]) dan didokumentasikan lengkap dalam RPS masing-masing. **[AMANDEMEN — FIX DUPLIKAT]** Baris "TIN5123 Analitik Data" sebelumnya muncul dua kali dengan CPL berbeda pada versi dokumen asli; kini disatukan menjadi satu baris (3 CPMK, CPL06/CPL01/CPL02) konsisten dengan *Pemetaan-CPMK.md*. Mata kuliah Wajib Nasional dan AIK (CPL07/CPL08) tidak termasuk kategori MKW-P sehingga tidak muncul di Tabel 8.4 — rekapitulasinya ada pada Tabel 8.4b di bawah.
+
+**Tabel 8.4b — Rekapitulasi CPMK Mata Kuliah AIK dan Wajib Nasional** *(BARU)*
+
+| Kode | Mata Kuliah | Jumlah CPMK | CPL Didukung |
+|------|-------------|:-----------:|--------------|
+| INS1101 | AIK I | 3 *(lihat Contoh 7)* | CPL07 |
+| INS2102 | AIK II | 2 *(kandidat bank; disarankan tambah 1)* | CPL07 |
+| INS301 | Kemuhammadiyahan dan Ke'Aisyiyahan | 2 *(kandidat bank; disarankan tambah 1)* | CPL07 |
+| INS4104 | AIK IV | 2 *(kandidat bank; disarankan tambah 1)* | CPL07 |
+| NAS1101 | Pancasila | 2 *(kandidat bank; disarankan tambah 1)* | CPL08 |
+| NAS1102 | Bahasa Indonesia | 2 *(kandidat bank; disarankan tambah 1)* | CPL08 |
+| NAS2103 | Kewarganegaraan | 2 *(kandidat bank; disarankan tambah 1)* | CPL08 |
+
+> *Kandidat CPMK dari bank (CPMK-CPL07-01 / CPMK-CPL08-01 + CPMK-CPL02-09/10 pendukung, lihat Pemetaan-CPMK.md §3) memberi 2 kandidat per MK; dosen pengampu disarankan menambah 1 CPMK spesifik topik (seperti pola Contoh 7 di §8.4) agar mencapai minimum 3 CPMK sesuai Tabel 8.1.*
 
 ---
 
@@ -290,6 +332,8 @@ Untuk memperjelas traceability, berikut pemetaan ringkas antar CPL, bentuk CPMK 
 | **CPL04** | CPMK yang menekankan kemampuan mengintegrasikan, mengkonfigurasi, dan mengadministrasikan infrastruktur TI; mencakup jaringan, sistem operasi, platform, dan layanan digital | Komunikasi Data; Sistem Operasi; Jaringan Komputer 1; Jaringan Komputer 2; Hardware/Software; Embedded Sistem; Teknologi Sistem Terintegrasi; Teknologi Platform; Internet of Things; Sistem dan Layanan Virtual; Aplikasi Seluler; Sistem Web dan Seluler |
 | **CPL05** | CPMK yang menekankan keamanan siber, tata kelola informasi, manajemen risiko, dan audit sistem | Sistem Basis Data; Manajemen Sistem Informasi; Prinsip Keamanan Siber; Sistem Basis Data Lanjut; Informatika Medis; E-Health; Sistem Informasi Kesehatan |
 | **CPL06** | CPMK yang menekankan kemampuan menerapkan analitik data, machine learning, AI, dan evaluasi berbasis data secara etis | Pengantar Kecerdasan Buatan; Data Mining; Statistik; Data Science; Analitik Data; Kecerdasan Buatan; Business Problem & DS Solution; Riset Operasi; E-Health; Skripsi |
+| **CPL07** *(baru)* | CPMK yang menekankan internalisasi nilai keimanan, akhlak, ibadah, dan muamalah sesuai paham Al-Islam Kemuhammadiyahan (ranah afektif A3–A4) | AIK I; AIK II; Kemuhammadiyahan dan Ke'Aisyiyahan; AIK IV |
+| **CPL08** *(baru)* | CPMK yang menekankan sikap kebangsaan, nasionalisme, kepekaan sosial, dan ketaatan hukum sebagai warga negara (ranah afektif A3) | Pancasila; Bahasa Indonesia; Kewarganegaraan |
 
 > *Pemetaan ini merupakan agregasi ringkas dari matriks MK–CPL pada [BAB VI §6.4], contoh penurunan CPMK pada bagian §8.4, serta RPS yang tercantum pada [BAB IX].*
 
@@ -309,9 +353,11 @@ Verifikasi bahwa setiap CPL didukung oleh CPMK dari sejumlah mata kuliah dengan 
 | CPL04 | 11 | ✅ Terpenuhi (≥3) |
 | CPL05 | 7 | ✅ Terpenuhi (≥3) |
 | CPL06 | 7 | ✅ Terpenuhi (≥3) |
+| **CPL07** *(baru)* | 4 | ✅ Terpenuhi (≥3) |
+| **CPL08** *(baru)* | 3 | ✅ Terpenuhi (≥3) |
 
-> *Angka ini identik dengan Tabel Verifikasi Matriks MK–CPL di [BAB VI §6.5], menggunakan metodologi penghitungan yang sama (kontribusi utama ● pada matriks §6.4). Setelah penambahan CPL06, mata kuliah data/AI berpindah kontribusi utama ke CPL06.*
+> *Angka ini identik dengan Tabel Verifikasi Matriks MK–CPL di [BAB VI §6.5], menggunakan metodologi penghitungan yang sama (kontribusi utama ● pada matriks §6.4). Setelah penambahan CPL06, mata kuliah data/AI berpindah kontribusi utama ke CPL06; setelah penambahan CPL07/CPL08, mata kuliah AIK dan Wajib Nasional kini memiliki kontribusi utama eksplisit dan seluruh 8 CPL terpenuhi syarat minimum 3 MK utama.*
 
 ---
 
-*CPMK dan Sub-CPMK ini menjadi jantung setiap RPS (BAB IX). Setiap dosen pengampu wajib menyelaraskan asesmen (BAB X) dengan Sub-CPMK agar pencapaian CPL dapat diukur secara valid.*
+*CPMK dan Sub-CPMK ini menjadi jantung setiap RPS (BAB IX). Setiap dosen pengampu wajib menyelaraskan asesmen (BAB X) dengan Sub-CPMK agar pencapaian CPL dapat diukur secara valid. Untuk mata kuliah AIK/Wajib Nasional, asesmen mengacu pada Rubrik Afektif (BAB X §10.3.3), bukan rubrik kognitif/analitik.*

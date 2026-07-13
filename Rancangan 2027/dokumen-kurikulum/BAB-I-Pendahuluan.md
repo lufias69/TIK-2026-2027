@@ -14,9 +14,9 @@ Pendekatan OBE diperkuat oleh:
 4. **Referensi internasional** Computing Curricula 2020 (CC2020) dan IT2017 dari ACM/IEEE yang menjamin relevansi global kurikulum.
 5. **Akreditasi internasional** IABEE (*Indonesian Accreditation Board for Engineering Education*) sebagai proxy Seoul Accord, yang menghendaki sistem penjaminan mutu berbasis OBE.
 
-Sebagai perguruan tinggi yang berada di bawah naungan **Universitas Muhammadiyah**, Program Studi S1 Teknologi Informasi juga berkewajiban mengintegrasikan nilai-nilai **Al-Islam dan Kemuhammadiyahan (AIK)** ke dalam kurikulum, sehingga menghasilkan lulusan yang tidak hanya unggul secara teknologi tetapi juga berakhlak mulia dan berkontribusi kepada masyarakat.
+Sebagai perguruan tinggi yang berada di bawah naungan **Pimpinan Pusat 'Aisyiyah**, **Institut Sains Teknologi dan Kesehatan Aisyiyah Kendari (ISTEK-AK)** juga berkewajiban mengintegrasikan nilai-nilai **Al-Islam dan Kemuhammadiyahan (AIK)** ke dalam kurikulum Program Studi S1 Teknologi Informasi, sehingga menghasilkan lulusan yang tidak hanya unggul secara teknologi tetapi juga berakhlak mulia dan berkontribusi kepada masyarakat.
 
-Dokumen ini merupakan Dokumen Kurikulum Program Studi S1 Teknologi Informasi yang dirancang untuk diberlakukan mulai Tahun Akademik **2027/2028**, menggantikan kurikulum sebelumnya (2023) setelah melalui proses evaluasi, tracer study, dan analisis kebutuhan pemangku kepentingan.
+Dokumen ini merupakan Dokumen Kurikulum Program Studi S1 Teknologi Informasi, Institut Sains Teknologi dan Kesehatan Aisyiyah Kendari, yang dirancang untuk diberlakukan mulai Tahun Akademik **2027/2028**, menggantikan kurikulum sebelumnya (2023) setelah melalui proses evaluasi, tracer study, dan analisis kebutuhan pemangku kepentingan.
 
 ---
 
@@ -46,18 +46,18 @@ Tabel 1.1 memuat peraturan perundang-undangan tingkat nasional yang menjadi dasa
 
 ### 1.2.2 Kebijakan Institusional
 
-Selain regulasi nasional, penyusunan kurikulum juga berpedoman pada kebijakan internal universitas sebagaimana dirangkum pada Tabel 1.2.
+Selain regulasi nasional, penyusunan kurikulum juga berpedoman pada kebijakan internal institut sebagaimana dirangkum pada Tabel 1.2.
 
 **Tabel 1.2 — Landasan Kebijakan Institusional**
 
 | No. | Dokumen | Keterangan |
 |-----|---------|------------|
-| 1 | Statuta [Nama Universitas Muhammadiyah] | Landasan penyelenggaraan pendidikan universitas |
-| 2 | Rencana Induk Pengembangan (RIP) Universitas | Arah pengembangan jangka panjang |
-| 3 | Rencana Strategis (Renstra) Fakultas | Target capaian mutu program studi |
-| 4 | Pedoman Akademik [Nama Universitas] | Peraturan teknis akademik |
+| 1 | Statuta Institut Sains Teknologi dan Kesehatan Aisyiyah Kendari | Landasan penyelenggaraan pendidikan institut |
+| 2 | Rencana Induk Pengembangan (RIP) Institut Sains Teknologi dan Kesehatan Aisyiyah Kendari | Arah pengembangan jangka panjang |
+| 3 | Rencana Strategis (Renstra) Fakultas/Unit Pengelola Prodi | Target capaian mutu program studi |
+| 4 | Pedoman Akademik Institut Sains Teknologi dan Kesehatan Aisyiyah Kendari | Peraturan teknis akademik |
 | 5 | SK Rektor tentang Kurikulum Prodi TI 2027 | *(akan diterbitkan setelah dokumen ini disahkan)* |
-| 6 | Pedoman AIK Perguruan Tinggi Muhammadiyah dan Aisyiyah | Integrasi nilai Al-Islam dan Kemuhammadiyahan dalam kurikulum |
+| 6 | Pedoman Al-Islam dan Kemuhammadiyahan Perguruan Tinggi Muhammadiyah dan Aisyiyah (PTMA) | Integrasi nilai Al-Islam dan Kemuhammadiyahan dalam kurikulum, disesuaikan konteks 'Aisyiyah |
 
 ### 1.2.3 Referensi Eksternal dan Internasional
 
@@ -83,7 +83,7 @@ Dokumen Kurikulum Program Studi S1 Teknologi Informasi ini disusun dengan tujuan
 1. **Menetapkan arah dan dasar hukum** penyelenggaraan pendidikan program studi yang terstandar dan akuntabel.
 2. **Merumuskan CPL secara eksplisit** sehingga setiap pemangku kepentingan — dosen, mahasiswa, industri, dan akreditor — memiliki pemahaman yang sama tentang kompetensi lulusan.
 3. **Menyelaraskan kurikulum** dengan SN-Dikti, KKNI Level 6, SKKNI, dan referensi internasional (CC2020, IT2017).
-4. **Menjamin keterlacakan** (*traceability*) antara Profil Lulusan → CPL → CPMK → Sub-CPMK → materi → asesmen untuk setiap mata kuliah.
+4. **Menjamin keterlacakan** (*traceability*) antara Profil Lulusan → CPL → Bahan Kajian → CPMK → Sub-CPMK → materi → asesmen untuk setiap mata kuliah.
 5. **Mengintegrasikan kebijakan MBKM** secara sistematis dalam struktur kurikulum.
 6. **Menyediakan panduan** bagi dosen pengampu dalam menyusun Rencana Pembelajaran Semester (RPS) yang selaras dengan CPL.
 7. **Menjadi dasar evaluasi dan perbaikan** kurikulum secara berkelanjutan melalui mekanisme *Continuous Quality Improvement* (CQI).
@@ -106,7 +106,7 @@ Dokumen ini mencakup seluruh aspek penyelenggaraan Program Studi S1 Teknologi In
 - Mekanisme monitoring dan evaluasi kurikulum
 - Implementasi MBKM
 
-Dokumen ini **tidak** mengatur hal-hal teknis operasional seperti jadwal perkuliahan, penugasan dosen, atau tata tertib akademik yang diatur dalam Pedoman Akademik Universitas.
+Dokumen ini **tidak** mengatur hal-hal teknis operasional seperti jadwal perkuliahan, penugasan dosen, atau tata tertib akademik yang diatur dalam Pedoman Akademik Institut.
 
 ---
 
@@ -116,25 +116,25 @@ Penyusunan dokumen kurikulum ini dilaksanakan melalui serangkaian tahapan sistem
 
 ```
 Evaluasi Kurikulum 2023
-        ↓
+ ↓
 Tracer Study Alumni & Pengguna Lulusan
-        ↓
+ ↓
 Analisis Kebutuhan Pemangku Kepentingan (Stakeholder Analysis)
-        ↓
+ ↓
 Benchmarking Kurikulum Prodi Sejenis
-        ↓
+ ↓
 Lokakarya Penyusunan CPL dan Bahan Kajian
-        ↓
+ ↓
 Penyusunan Struktur Kurikulum & Matriks MK-CPL
-        ↓
+ ↓
 Penyusunan RPS dan Asesmen per MK
-        ↓
+ ↓
 Review Internal (Tim Kurikulum Prodi & Fakultas)
-        ↓
+ ↓
 Review Eksternal (Mitra Industri & Prodi Sejenis)
-        ↓
+ ↓
 Pengesahan oleh Senat/Rektor → SK Kurikulum
-        ↓
+ ↓
 Sosialisasi dan Implementasi (TA 2027/2028)
 ```
 
@@ -155,8 +155,8 @@ Struktur dan cakupan isi setiap bab dokumen kurikulum ini dirangkum pada Tabel 1
 | **I** | Pendahuluan | Latar belakang, landasan hukum, tujuan, ruang lingkup |
 | **II** | Profil Program Studi | VMTS, identitas prodi, akreditasi, sumber daya |
 | **III** | Profil Lulusan | Analisis industri, profil lulusan, matriks PL–pemangku kepentingan |
-| **IV** | Capaian Pembelajaran Lulusan (CPL) | Rumusan CPL01–06, matriks CPL–KKNI–SN-Dikti–Profil Lulusan |
-| **V** | Bahan Kajian | Daftar BK01–27, kategori penciri, matriks BK–CPL |
+| **IV** | Capaian Pembelajaran Lulusan (CPL) | Rumusan CPL01–08 (termasuk CPL07 Sikap Keislaman & CPL08 Sikap Kebangsaan), matriks CPL–KKNI–SN-Dikti–Profil Lulusan |
+| **V** | Bahan Kajian | Daftar BK01–29 (termasuk BK28 Wawasan Kebangsaan & BK29 Al-Islam Kemuhammadiyahan), kategori penciri, matriks BK–CPL |
 | **VI** | Struktur Kurikulum | Daftar MK, distribusi semester, matriks MK–CPL, diagram alur |
 | **VII** | Deskripsi Mata Kuliah | Deskripsi singkat & kompetensi setiap MK |
 | **VIII** | CPMK dan Sub-CPMK | Penurunan CPL ke CPMK dan Sub-CPMK per MK |
@@ -165,6 +165,8 @@ Struktur dan cakupan isi setiap bab dokumen kurikulum ini dirangkum pada Tabel 1
 | **XI** | Monitoring dan Evaluasi Kurikulum | CQI, tracer study, jadwal review |
 | **XII** | Implementasi MBKM | Skema MBKM, konversi SKS, prosedur |
 | **Lampiran** | Dokumen Pendukung | SK Kurikulum, template RPS, form evaluasi, dll. |
+
+> **Catatan Amandemen:** CPL07, CPL08, BK28, dan BK29 ditambahkan pada revisi dokumen ini (lihat *Pemetaan-Detail-Bahan-Kajian.md*, *Pemetaan-CPMK.md*, dan *Pemetaan-CPL-SNDIKTI.md* di folder yang sama) agar mata kuliah Al-Islam Kemuhammadiyahan (AIK) dan Wajib Nasional memiliki CPL dan Bahan Kajian utama yang eksplisit. BAB IV–VIII dalam dokumen ini telah diperbarui untuk mencerminkan penambahan tersebut.
 
 ---
 
@@ -176,16 +178,19 @@ Struktur dan cakupan isi setiap bab dokumen kurikulum ini dirangkum pada Tabel 1
 
 Susunan tim penyusun kurikulum beserta peran masing-masing dicantumkan pada Tabel 1.5.
 
+> ⚠️ **CONTOH — perlu diganti data riil:** Nama dan jabatan berikut adalah ilustrasi struktur tim; Prodi wajib mengganti dengan susunan tim penyusun kurikulum yang sebenarnya (sesuai SK Dekan/Rektor).
+
 **Tabel 1.5 — Susunan Tim Penyusun Kurikulum**
 
 | Nama | Jabatan | Peran |
 |------|---------|-------|
-| [Nama] | Ketua Prodi | Ketua Tim Kurikulum |
-| [Nama] | Sekretaris Prodi | Sekretaris Tim |
-| [Nama] | Dosen Senior | Anggota |
-| [Nama] | Dosen Senior | Anggota |
-| [Nama] | Perwakilan Industri | Reviewer Eksternal |
-| [Nama] | Alumni | Reviewer Eksternal |
+| *(Contoh)* Ketua Program Studi TI | Ketua Prodi | Ketua Tim Kurikulum |
+| *(Contoh)* Sekretaris Program Studi TI | Sekretaris Prodi | Sekretaris Tim |
+| *(Contoh)* Dosen Senior Bidang RPL | Dosen Senior | Anggota |
+| *(Contoh)* Dosen Senior Bidang Jaringan & Keamanan | Dosen Senior | Anggota |
+| *(Contoh)* Dosen Senior Bidang Data Science/AI | Dosen Senior | Anggota |
+| *(Contoh)* Perwakilan Industri Mitra | Praktisi Industri | Reviewer Eksternal |
+| *(Contoh)* Perwakilan Alumni | Alumni | Reviewer Eksternal |
 
-*Dokumen disahkan pada: [Kota], [Tanggal] [Bulan] 2027*
+*Dokumen disahkan pada: Kendari, [Tanggal] [Bulan] 2027*
 *SK Kurikulum No.: [Nomor SK]*

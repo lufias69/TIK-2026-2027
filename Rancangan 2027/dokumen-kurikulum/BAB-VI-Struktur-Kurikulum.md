@@ -16,7 +16,9 @@ Komposisi mata kuliah dan bobot SKS menurut kategori diringkas pada Tabel 6.1.
 
 **Catatan:** Angka 172 SKS adalah **total SKS yang ditawarkan** (bila seluruh MK termasuk semua pilihan diambil). Beban kelulusan riil mahasiswa dihitung dari SKS Wajib + minimum SKS Pilihan yang wajib ditempuh (lihat §6.3.1). Perhitungan ini memastikan kepatuhan terhadap batas minimum **144 SKS** SN-Dikti untuk program sarjana.
 
-> **Catatan Kategori Wajib Institusi (MKW-I):** Dari 6 MK Wajib Institusi, **4 MK** merupakan blok Al-Islam dan Kemuhammadiyahan/**AIK** (AIK I, AIK II, **Kemuhammadiyahan dan Ke'Aisyiyahan yang setara AIK III**, dan AIK IV) sebagai penciri khas Universitas Muhammadiyah, sedangkan **2 MK** — Bahasa Inggris (INS1106) dan Kewirausahaan (INS2105) — merupakan mata kuliah **wajib institusi umum** (bukan AIK). Penyebutan "AIK" pada dokumen hanya berlaku untuk keempat MK blok AIK.
+> **Catatan Kategori Wajib Institusi (MKW-I):** Dari 6 MK Wajib Institusi, **4 MK** merupakan blok Al-Islam dan Kemuhammadiyahan/**AIK** (AIK I, AIK II, **Kemuhammadiyahan dan Ke'Aisyiyahan yang setara AIK III**, dan AIK IV) sebagai penciri khas ISTEK-AK, sedangkan **2 MK** — Bahasa Inggris (INS1106) dan Kewirausahaan (INS2105) — merupakan mata kuliah **wajib institusi umum** (bukan AIK). Penyebutan "AIK" pada dokumen hanya berlaku untuk keempat MK blok AIK.
+
+> **[AMANDEMEN]** Seluruh mata kuliah AIK (INS1101, INS2102, INS301, INS4104) kini memiliki **BK29 (Al-Islam dan Kemuhammadiyahan)** dan **CPL07 (Sikap dan Wawasan Keislaman)** sebagai BK/CPL utama; seluruh mata kuliah Wajib Nasional (NAS1101, NAS1102, NAS2103) kini memiliki **BK28 (Wawasan Kebangsaan)** dan **CPL08 (Sikap dan Wawasan Kebangsaan)** sebagai BK/CPL utama. Sebelumnya kelompok MK ini tidak memiliki BK/CPL utama eksplisit. Lihat *Pemetaan-Detail-Bahan-Kajian.md* dan BAB IV/V untuk rincian.
 
 ---
 
@@ -30,10 +32,10 @@ Komposisi mata kuliah dan bobot SKS menurut kategori diringkas pada Tabel 6.1.
 
 | Kode | Nama Mata Kuliah | SKS | Jenis | Penciri | BK Utama |
 |------|-----------------|:---:|-------|---------|----------|
-| INS1101 | AIK I (Keimanan, Kemanusiaan dan Akhlak) | 2 | MKW-I | Institusi | — |
+| INS1101 | AIK I (Keimanan, Kemanusiaan dan Akhlak) | 2 | MKW-I | Institusi | **BK29** |
 | INS1106 | Bahasa Inggris | 2 | MKW-I | Institusi | BK08 |
-| NAS1101 | Pancasila | 2 | MKW-N | Nasional | — |
-| NAS1102 | Bahasa Indonesia | 2 | MKW-N | Nasional | — |
+| NAS1101 | Pancasila | 2 | MKW-N | Nasional | **BK28** |
+| NAS1102 | Bahasa Indonesia | 2 | MKW-N | Nasional | **BK28** |
 | TIN1101 | Logika Informatika | 2 | MKW-P | Prodi | BK14 |
 | TIN1102 | Algoritma dan Pemrograman | 4 | MKW-P | Prodi | BK10 |
 | TIN1103 | Pengantar Teknologi Informasi | 2 | MKW-P | Prodi | BK10, BK16 |
@@ -46,9 +48,9 @@ Komposisi mata kuliah dan bobot SKS menurut kategori diringkas pada Tabel 6.1.
 
 | Kode | Nama Mata Kuliah | SKS | Jenis | Penciri | BK Utama |
 |------|-----------------|:---:|-------|---------|----------|
-| INS2102 | AIK II (Ibadah dan Muamalah) | 2 | MKW-I | Institusi | — |
+| INS2102 | AIK II (Ibadah dan Muamalah) | 2 | MKW-I | Institusi | **BK29** |
 | INS2105 | Kewirausahaan | 2 | MKW-I | Institusi | BK13 |
-| NAS2103 | Kewarganegaraan | 2 | MKW-N | Nasional | — |
+| NAS2103 | Kewarganegaraan | 2 | MKW-N | Nasional | **BK28** |
 | TIN2106 | Komputer Grafis | 2 | MKW-P | Prodi | BK20 |
 | TIN2107 | Sistem Operasi | 2 | MKW-P | Prodi | BK15 |
 | TIN2108 | Struktur Data | 4 | MKW-P | Prodi | BK10 |
@@ -63,7 +65,7 @@ Komposisi mata kuliah dan bobot SKS menurut kategori diringkas pada Tabel 6.1.
 
 | Kode | Nama Mata Kuliah | SKS | Jenis | Penciri | BK Utama |
 |------|-----------------|:---:|-------|---------|----------|
-| INS301 | Kemuhammadiyahan dan Ke'Aisyiyahan | 2 | MKW-I | Institusi | — |
+| INS301 | Kemuhammadiyahan dan Ke'Aisyiyahan | 2 | MKW-I | Institusi | **BK29** |
 | TIN302 | Jaringan Komputer 1 | 4 | MKW-P | Prodi | BK03, BK26 |
 | TIN303 | Pemrograman Berorientasi Objek (PBO) | 4 | MKW-P | Prodi | BK10 |
 | TIN304 | Pemrograman Web Dasar | 4 | MKW-P | Prodi | BK06 |
@@ -80,7 +82,7 @@ Komposisi mata kuliah dan bobot SKS menurut kategori diringkas pada Tabel 6.1.
 
 | Kode | Nama Mata Kuliah | SKS | Jenis | Penciri | BK Utama |
 |------|-----------------|:---:|-------|---------|----------|
-| INS4104 | AIK IV (Islam dan IPTEK) | 2 | MKW-I | Institusi | — |
+| INS4104 | AIK IV (Islam dan IPTEK) | 2 | MKW-I | Institusi | **BK29** |
 | TIN4120 | Pemrograman Web Lanjut | 4 | MKW-P | Prodi | BK06, BK05 |
 | TIN4121 | Pengantar Kecerdasan Buatan | 2 | MKW-P | Prodi | BK21 |
 | TIN4122 | Embedded Sistem | 2 | MKW-P | Prodi | BK12, BK02 |
@@ -101,11 +103,11 @@ Komposisi mata kuliah dan bobot SKS menurut kategori diringkas pada Tabel 6.1.
 | TIN5120 | Perancangan dan Integrasi Sistem | 2 | MKW-P | Prodi | BK04, BK17 |
 | TIN5121 | Metodologi Penelitian | 2 | MKW-P | Prodi | BK24 |
 | TIN5123 | Analitik Data | 2 | MKW-P | Prodi | BK22 |
-| TIN5245 | Sistem Basis Data Lanjut | 4 | MKP | Peminatan | BK09 |
-| TIN5246 | Kecerdasan Buatan | 4 | MKP | Peminatan | BK21 |
-| TIN5247 | Multimedia | 4 | MKP | Peminatan | BK20 |
-| TIN5248 | Jaringan Komputer 2 | 4 | MKP | Peminatan | BK03 |
-| TIN5249 | Informatika Medis | 2 | MKP | Peminatan | BK25 |
+| TIN5245 | Sistem Basis Data Lanjut *(Pil)* | 4 | MKP | Peminatan | BK09 |
+| TIN5246 | Kecerdasan Buatan *(Pil)* | 4 | MKP | Peminatan | BK21 |
+| TIN5247 | Multimedia *(Pil)* | 4 | MKP | Peminatan | BK20 |
+| TIN5248 | Jaringan Komputer 2 *(Pil)* | 4 | MKP | Peminatan | BK03 |
+| TIN5249 | Informatika Medis *(Pil)* | 2 | MKP | Peminatan | BK25 |
 
 ### Semester 6 — Total: 9 MK, 24 SKS
 
@@ -118,10 +120,10 @@ Komposisi mata kuliah dan bobot SKS menurut kategori diringkas pada Tabel 6.1.
 | TIN6132 | Praktek Profesional Global | 2 | MKW-P | Prodi | BK08 |
 | TIN6133 | Prinsip Keamanan Siber | 2 | MKW-P | Prodi | BK07 |
 | TIN6134 | Capstone Project 1 | 2 | MKW-P | Prodi | BK27, BK13 |
-| TIN6250 | Business Problem & DS Solution | 4 | MKP | Peminatan | BK22, BK13 |
-| TIN6251 | Riset Operasi | 4 | MKP | Peminatan | BK19, BK23 |
-| TIN6252 | Internet of Things | 4 | MKP | Peminatan | BK02 |
-| TIN6254 | Sistem dan Layanan Virtual | 2 | MKP | Peminatan | BK01 |
+| TIN6250 | Business Problem & DS Solution *(Pil)* | 4 | MKP | Peminatan | BK22, BK13 |
+| TIN6251 | Riset Operasi *(Pil)* | 4 | MKP | Peminatan | BK19, BK23 |
+| TIN6252 | Internet of Things *(Pil)* | 4 | MKP | Peminatan | BK02 |
+| TIN6254 | Sistem dan Layanan Virtual *(Pil)* | 2 | MKP | Peminatan | BK01 |
 
 ### Semester 7 — Total: 8 MK, 25 SKS *(SKS ditawarkan; beban riil mahasiswa maks 24 SKS — lihat §6.3.2)*
 
@@ -133,7 +135,7 @@ Komposisi mata kuliah dan bobot SKS menurut kategori diringkas pada Tabel 6.1.
 | TIN7138 | Sistem Web dan Seluler (Mobile) | 4 | MKW-P | Prodi | BK06, BK05 |
 | TIN7140 | Design User Experience | 2 | MKW-P | Prodi | BK11 |
 | TIN7141 | Capstone Project 2 | 2 | MKW-P | Prodi | BK27, BK13 |
-| TIN7257 | E-Health | 4 | MKP | Peminatan | BK25, BK09 |
+| TIN7257 | E-Health *(Pil)* | 4 | MKP | Peminatan | BK25, BK09 |
 | TIN7260 | Magang / Praktik Kerja *(MBKM)* | 4 | MKP | MBKM | BK08, BK13 |
 | TIN7261 | Kuliah Kerja Nyata / KKN *(MBKM)* | 4 | MKP | MBKM | BK08 |
 | TIN8142 | Seminar Proposal | 1 | MKW-P | Prodi | BK24, BK27 |
@@ -169,7 +171,7 @@ Rekapitulasi jumlah MK dan SKS per kategori untuk setiap semester disajikan pada
 | 8 | 2 | — | — | 5 | — | 5 |
 | **Total** | **65** | **6** | **12** | **106** | **48** | **172** |
 
-> ⚠️ **Catatan Anomali Data — Perlu Konfirmasi Prodi:** Pada file sumber (`daftar_mata_kuliah.xlsx`), seluruh mata kuliah berkode TIN30x dan TIN4xxx tercatat pada kolom **"Semester 4"** (16 MK, 42 SKS), sehingga **tidak terdapat Semester 3** secara eksplisit. Dokumen ini menempatkan TIN30x pada Semester 3 dan TIN4xxx pada Semester 4 **berdasarkan konvensi kode mata kuliah** (digit pertama setelah TIN menandakan semester). Distribusi Sem 3 (8 MK, 22 SKS) + Sem 4 (8 MK, 20 SKS) = 16 MK, 42 SKS — konsisten dengan total sumber. **Tim Prodi wajib mengonfirmasi** penempatan semester yang benar sebelum dokumen disahkan.
+> ⚠️ **Catatan Anomali Data — Perlu Konfirmasi Prodi:** Pada file sumber (`daftar_mata_kuliah.xlsx`), seluruh mata kuliah berkode TIN30x dan TIN4xxx tercatat pada kolom **"Semester 4"** (16 MK, 42 SKS), sehingga **tidak terdapat Semester 3** secara eksplisit. Dokumen ini menempatkan TIN30x pada Semester 3 dan TIN4xxx pada Semester 4 **berdasarkan konvensi kode mata kuliah** (digit pertama setelah TIN menandakan semester). Distribusi Sem 3 (8 MK, 22 SKS) + Sem 4 (8 MK, 20 SKS) = 16 MK, 42 SKS — konsisten dengan total sumber. **Tim Prodi wajib mengonfirmasi** penempatan semester yang benar sebelum dokumen disahkan. *(Rekomendasi tim penyusun: pertahankan konvensi kode TIN30x/TIN4xxx sebagai penanda semester resmi karena sudah konsisten secara matematis dan tidak mengubah total SKS/MK; opsi ini lebih sederhana daripada menyusun ulang seluruh penomoran mata kuliah.)*
 
 ### 6.3.1 Perhitungan Beban Kelulusan
 
@@ -188,7 +190,7 @@ Rincian komponen beban kelulusan minimum disajikan pada Tabel 6.11.
 
 > *Mahasiswa diwajibkan menempuh **minimum 144 SKS** (124 SKS wajib + minimum 20 SKS pilihan) dengan IPK ≥ 2,00 untuk dapat lulus. Total SKS yang ditawarkan kurikulum adalah 172 SKS; mahasiswa memilih minimum 20 dari 48 SKS mata kuliah pilihan sesuai kluster peminatan.*
 >
-> ⚠️ **Perlu Konfirmasi Prodi:** Angka minimum 20 SKS pilihan bersifat usulan agar total tepat 144 SKS. Prodi dapat menetapkan angka lain (mis. mewajibkan lebih banyak pilihan), yang akan mengubah total beban kelulusan.
+> *(Rekomendasi tim penyusun: minimum 20 SKS pilihan dipertahankan agar total tepat 144 SKS sesuai batas minimum SN-Dikti; Prodi dapat menaikkan angka ini bila ingin memberi bobot lebih pada peminatan, dengan konsekuensi menambah total beban kelulusan di atas 144 SKS.)*
 
 ### 6.3.2 Beban SKS Riil per Semester (Kepatuhan Batas 24 SKS)
 
@@ -207,7 +209,7 @@ Sesuai SN-Dikti, mahasiswa dibatasi mengambil **maksimal 24 SKS per semester**. 
 | 7 | 9 | 16 | 25 | ≤ 24 (9 wajib + maks 15 pilihan) |
 | 8 | 5 | — | 5 | 5 |
 
-> **Penjelasan:** Total SKS ditawarkan yang melebihi 24 (Semester 5 = 32, Semester 7 = 25) semata-mata karena tersedianya **banyak mata kuliah pilihan** pada semester tersebut. Mahasiswa **tidak wajib** mengambil seluruhnya — mereka memilih sebagian sesuai peminatan, dengan **batas maksimal 24 SKS per semester**. Karena beban wajib maksimal hanya 24 SKS (Semester 2), aturan batas SKS selalu terpenuhi. Mahasiswa dengan IPK di bawah ketentuan dapat dibatasi mengambil SKS lebih sedikit sesuai peraturan akademik universitas.
+> **Penjelasan:** Total SKS ditawarkan yang melebihi 24 (Semester 5 = 32, Semester 7 = 25) semata-mata karena tersedianya **banyak mata kuliah pilihan** pada semester tersebut. Mahasiswa **tidak wajib** mengambil seluruhnya — mereka memilih sebagian sesuai peminatan, dengan **batas maksimal 24 SKS per semester**. Karena beban wajib maksimal hanya 24 SKS (Semester 2), aturan batas SKS selalu terpenuhi. Mahasiswa dengan IPK di bawah ketentuan dapat dibatasi mengambil SKS lebih sedikit sesuai peraturan akademik institut.
 
 ---
 
@@ -217,126 +219,128 @@ Tabel berikut menunjukkan kontribusi setiap mata kuliah terhadap pencapaian CPL.
 - **●** = kontribusi utama (MK ini merupakan wahana utama pencapaian CPL tsb.)
 - **○** = kontribusi pendukung (MK ini turut berkontribusi pada CPL tsb.)
 
+> **[AMANDEMEN]** Kolom **CPL07** dan **CPL08** ditambahkan pada seluruh matriks berikut untuk mencerminkan CPL utama baru bagi mata kuliah AIK dan Wajib Nasional.
+
 ### Semester 1
 
 **Tabel 6.13 — Matriks MK–CPL Semester 1**
 
-| MK | CPL01 | CPL02 | CPL03 | CPL04 | CPL05 | CPL06 |
-|----|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| AIK I | | | | | | |
-| Bahasa Inggris | | ○ | | | | |
-| Pancasila | | | | | | |
-| Bahasa Indonesia | | ○ | | | | |
-| Logika Informatika | ● | | | | | |
-| Algoritma dan Pemrograman | ● | | ○ | | | |
-| Pengantar Teknologi Informasi | ○ | ○ | | ○ | | |
-| Komunikasi Data | | | | ● | | |
-| Aljabar Linier dan Matriks | ● | | | | | |
+| MK | CPL01 | CPL02 | CPL03 | CPL04 | CPL05 | CPL06 | CPL07 | CPL08 |
+|----|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| AIK I | | | | | | | **●** | |
+| Bahasa Inggris | | ○ | | | | | | |
+| Pancasila | | | | | | | | **●** |
+| Bahasa Indonesia | | ○ | | | | | | **●** |
+| Logika Informatika | ● | | | | | | | |
+| Algoritma dan Pemrograman | ● | | ○ | | | | | |
+| Pengantar Teknologi Informasi | ○ | ○ | | ○ | | | | |
+| Komunikasi Data | | | | ● | | | | |
+| Aljabar Linier dan Matriks | ● | | | | | | | |
 
 ### Semester 2
 
 **Tabel 6.14 — Matriks MK–CPL Semester 2**
 
-| MK | CPL01 | CPL02 | CPL03 | CPL04 | CPL05 | CPL06 |
-|----|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| AIK II | | | | | | |
-| Kewirausahaan | | ○ | | | | |
-| Kewarganegaraan | | | | | | |
-| Komputer Grafis | | | ○ | | | |
-| Sistem Operasi | | | | ● | | |
-| Struktur Data | ● | | ○ | | | |
-| Bahasa Inggris Sains | | ○ | | | | |
-| Kalkulus | ● | | | | | |
-| Sistem Basis Data | | ○ | ○ | | ● | ○ |
-| Dasar-Dasar Perangkat Lunak | ○ | | ● | | | |
+| MK | CPL01 | CPL02 | CPL03 | CPL04 | CPL05 | CPL06 | CPL07 | CPL08 |
+|----|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| AIK II | | | | | | | **●** | |
+| Kewirausahaan | | ○ | | | | | | |
+| Kewarganegaraan | | | | | | | | **●** |
+| Komputer Grafis | | | ○ | | | | | |
+| Sistem Operasi | | | | ● | | | | |
+| Struktur Data | ● | | ○ | | | | | |
+| Bahasa Inggris Sains | | ○ | | | | | | |
+| Kalkulus | ● | | | | | | | |
+| Sistem Basis Data | | ○ | ○ | | ● | ○ | | |
+| Dasar-Dasar Perangkat Lunak | ○ | | ● | | | | | |
 
 ### Semester 3
 
 **Tabel 6.15 — Matriks MK–CPL Semester 3**
 
-| MK | CPL01 | CPL02 | CPL03 | CPL04 | CPL05 | CPL06 |
-|----|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| Kemuhammadiyahan dan Ke'Aisyiyahan | | | | | | |
-| Jaringan Komputer 1 | | | | ● | | |
-| PBO | | | ● | | | |
-| Pemrograman Web Dasar | | | ● | | | |
-| Manajemen Sistem Informasi | | ● | | | ● | |
-| Hardware/Software | ○ | | | ● | | |
-| Organisasi dan Arsitektur Komputer | ● | | | ○ | | |
-| Rekayasa Perangkat Lunak | | ● | ● | | | |
+| MK | CPL01 | CPL02 | CPL03 | CPL04 | CPL05 | CPL06 | CPL07 | CPL08 |
+|----|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| Kemuhammadiyahan dan Ke'Aisyiyahan | | | | | | | **●** | |
+| Jaringan Komputer 1 | | | | ● | | | | |
+| PBO | | | ● | | | | | |
+| Pemrograman Web Dasar | | | ● | | | | | |
+| Manajemen Sistem Informasi | | ● | | | ● | | | |
+| Hardware/Software | ○ | | | ● | | | | |
+| Organisasi dan Arsitektur Komputer | ● | | | ○ | | | | |
+| Rekayasa Perangkat Lunak | | ● | ● | | | | | |
 
 ### Semester 4
 
 **Tabel 6.16 — Matriks MK–CPL Semester 4**
 
-| MK | CPL01 | CPL02 | CPL03 | CPL04 | CPL05 | CPL06 |
-|----|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| AIK IV | | | | | | |
-| Pemrograman Web Lanjut | | | ● | ○ | | |
-| Pengantar Kecerdasan Buatan | ○ | ○ | | | | ● |
-| Embedded Sistem | | | | ● | | |
-| Data Mining | ○ | ○ | | | | ● |
-| Sistem Informasi Kesehatan | | ○ | ○ | | ● | |
-| Statistik | ○ | | | | | ● |
-| Interaksi Manusia dan Komputer | | ○ | ● | | | |
+| MK | CPL01 | CPL02 | CPL03 | CPL04 | CPL05 | CPL06 | CPL07 | CPL08 |
+|----|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| AIK IV | | | | | | | **●** | |
+| Pemrograman Web Lanjut | | | ● | ○ | | | | |
+| Pengantar Kecerdasan Buatan | ○ | ○ | | | | ● | | |
+| Embedded Sistem | | | | ● | | | | |
+| Data Mining | ○ | ○ | | | | ● | | |
+| Sistem Informasi Kesehatan | | ○ | ○ | | ● | | | |
+| Statistik | ○ | | | | | ● | | |
+| Interaksi Manusia dan Komputer | | ○ | ● | | | | | |
 
 ### Semester 5
 
 **Tabel 6.17 — Matriks MK–CPL Semester 5**
 
-| MK | CPL01 | CPL02 | CPL03 | CPL04 | CPL05 | CPL06 |
-|----|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| Data Science | ○ | ○ | | | | ● |
-| Manajemen Informasi | | ● | | | ● | ○ |
-| Paradigma Sistem | | ● | ○ | | | |
-| Perancangan dan Integrasi Sistem | | ● | ● | ○ | | |
-| Metodologi Penelitian | | ● | | | | |
-| Analitik Data | ○ | ○ | | | | ● |
-| Sistem Basis Data Lanjut *(Pil)* | | ○ | ● | | ● | ○ |
-| Kecerdasan Buatan *(Pil)* | ○ | ○ | | | | ● |
-| Multimedia *(Pil)* | | | ● | | | |
-| Jaringan Komputer 2 *(Pil)* | | | | ● | ○ | |
-| Informatika Medis *(Pil)* | | ○ | ● | | ○ | ○ |
+| MK | CPL01 | CPL02 | CPL03 | CPL04 | CPL05 | CPL06 | CPL07 | CPL08 |
+|----|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| Data Science | ○ | ○ | | | | ● | | |
+| Manajemen Informasi | | ● | | | ● | ○ | | |
+| Paradigma Sistem | | ● | ○ | | | | | |
+| Perancangan dan Integrasi Sistem | | ● | ● | ○ | | | | |
+| Metodologi Penelitian | | ● | | | | | | |
+| Analitik Data | ○ | ○ | | | | ● | | |
+| Sistem Basis Data Lanjut *(Pil)* | | ○ | ● | | ● | ○ | | |
+| Kecerdasan Buatan *(Pil)* | ○ | ○ | | | | ● | | |
+| Multimedia *(Pil)* | | | ● | | | | | |
+| Jaringan Komputer 2 *(Pil)* | | | | ● | ○ | | | |
+| Informatika Medis *(Pil)* | | ○ | ● | | ○ | ○ | | |
 
 ### Semester 6
 
 **Tabel 6.18 — Matriks MK–CPL Semester 6**
 
-| MK | CPL01 | CPL02 | CPL03 | CPL04 | CPL05 | CPL06 |
-|----|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| Teknologi Sistem Terintegrasi | | | ● | ● | | |
-| Teknologi Platform | | | ● | ● | | |
-| Praktek Profesional Global | | ● | | | | |
-| Prinsip Keamanan Siber | | | | ● | ● | |
-| Capstone Project 1 | | ● | ● | | | |
-| Business Problem & DS Solution *(Pil)* | ○ | ○ | ○ | | | ● |
-| Riset Operasi *(Pil)* | ● | ○ | | | | ○ |
-| Internet of Things *(Pil)* | | | ● | ● | | |
-| Sistem dan Layanan Virtual *(Pil)* | | | | ● | | |
+| MK | CPL01 | CPL02 | CPL03 | CPL04 | CPL05 | CPL06 | CPL07 | CPL08 |
+|----|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| Teknologi Sistem Terintegrasi | | | ● | ● | | | | |
+| Teknologi Platform | | | ● | ● | | | | |
+| Praktek Profesional Global | | ● | | | | | | |
+| Prinsip Keamanan Siber | | | | ● | ● | | | |
+| Capstone Project 1 | | ● | ● | | | | | |
+| Business Problem & DS Solution *(Pil)* | ○ | ○ | ○ | | | ● | | |
+| Riset Operasi *(Pil)* | ● | ○ | | | | ○ | | |
+| Internet of Things *(Pil)* | | | ● | ● | | | | |
+| Sistem dan Layanan Virtual *(Pil)* | | | | ● | | | | |
 
 ### Semester 7
 
 **Tabel 6.19 — Matriks MK–CPL Semester 7**
 
-| MK | CPL01 | CPL02 | CPL03 | CPL04 | CPL05 | CPL06 |
-|----|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| Aplikasi Seluler *(Pil)* | | | ● | ○ | | |
-| Sistem Web dan Seluler | | | ● | ○ | | |
-| Design User Experience | | ○ | ● | | | |
-| Capstone Project 2 | | ● | ● | | | |
-| E-Health *(Pil)* | | ○ | ● | | ● | ○ |
-| Magang / Praktik Kerja *(MBKM)* | | ● | ● | ○ | | |
-| KKN *(MBKM)* | | ● | ○ | | | |
-| Seminar Proposal | | ● | ○ | | | |
+| MK | CPL01 | CPL02 | CPL03 | CPL04 | CPL05 | CPL06 | CPL07 | CPL08 |
+|----|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| Aplikasi Seluler *(Pil)* | | | ● | ○ | | | | |
+| Sistem Web dan Seluler | | | ● | ○ | | | | |
+| Design User Experience | | ○ | ● | | | | | |
+| Capstone Project 2 | | ● | ● | | | | | |
+| E-Health *(Pil)* | | ○ | ● | | ● | ○ | | |
+| Magang / Praktik Kerja *(MBKM)* | | ● | ● | ○ | | | | |
+| KKN *(MBKM)* | | ● | ○ | | | | | |
+| Seminar Proposal | | ● | ○ | | | | | |
 
 ### Semester 8
 
 **Tabel 6.20 — Matriks MK–CPL Semester 8**
 
-| MK | CPL01 | CPL02 | CPL03 | CPL04 | CPL05 | CPL06 |
-|----|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| Seminar Hasil | | ● | ○ | | | |
-| Skripsi | ○ | ● | ● | | | ○ |
+| MK | CPL01 | CPL02 | CPL03 | CPL04 | CPL05 | CPL06 | CPL07 | CPL08 |
+|----|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| Seminar Hasil | | ● | ○ | | | | | |
+| Skripsi | ○ | ● | ● | | | ○ | | |
 
 ---
 
@@ -354,8 +358,10 @@ Tabel cakupan CPL — dihitung dari matriks §6.4. Setiap CPL harus memiliki **�
 | CPL04 | 11 | Komunikasi Data, Jaringan 1, Sistem Operasi, Embedded, Teknologi Terintegrasi, Platform, Keamanan Siber, IoT | ✅ |
 | CPL05 | 7 | Sistem Basis Data, Manajemen Sistem Informasi, Manajemen Informasi, Sistem Info Kesehatan, Prinsip Keamanan Siber, SBD Lanjut, E-Health | ✅ |
 | CPL06 | 7 | Pengantar KA, Data Mining, Statistik, Data Science, Analitik Data, Kecerdasan Buatan, Business Problem & DS Solution | ✅ |
+| **CPL07** *(baru)* | 4 | AIK I, AIK II, Kemuhammadiyahan dan Ke'Aisyiyahan, AIK IV | ✅ |
+| **CPL08** *(baru)* | 3 | Pancasila, Bahasa Indonesia, Kewarganegaraan | ✅ |
 
-> *Angka di atas dihitung dari simbol ● (kontribusi utama) pada matriks §6.4, konsisten dengan Matriks Kelengkapan CPL di [BAB VIII §8.6]. Setelah penambahan CPL06, mata kuliah data/AI berkontribusi utama pada CPL06 dan menjadi pendukung (○) bagi CPL01/CPL02 — sehingga kedua CPL tersebut tetap terpenuhi (≥3 MK utama).*
+> *Angka di atas dihitung dari simbol ● (kontribusi utama) pada matriks §6.4, konsisten dengan Matriks Kelengkapan CPL di [BAB VIII §8.6]. CPL07 dan CPL08 ditambahkan mengikuti amandemen BAB IV/V; keduanya memenuhi syarat minimum 3 MK utama.*
 
 ---
 
@@ -364,26 +370,26 @@ Tabel cakupan CPL — dihitung dari matriks §6.4. Setiap CPL harus memiliki **�
 Keterkaitan prasyarat antar-mata kuliah dari semester ke semester digambarkan pada Gambar 6.1, memperlihatkan jalur pembelajaran yang progresif.
 
 ```
-SEMESTER 1                SEMESTER 2              SEMESTER 3              SEMESTER 4
-─────────────────         ───────────────────     ─────────────────────   ──────────────────
-Logika Informatika ──────→ Struktur Data ──────→                          
-                                    ↓                                     
-Algoritma & Pemrograman ──→ Dasar-Dasar PL ──→  PBO ─────────────────→  Pemrograman Web Lanjut
-                                                 Pemrograman Web Dasar→  (Sem 4)
-                                    
-Komunikasi Data ──────────→ Sistem Operasi ──→  Jaringan Komp 1 ──────→ [Jaringan Komp 2 Sem 5]
-                                    ↓
-Aljabar Linier & Matriks         Kalkulus ──────→ Statistik (Sem 4) ──→  Data Mining (Sem 4)
-                                    ↓                                         ↓
-                           Sistem Basis Data ──→ Manajemen SI ──────────→  [SBD Lanjut Sem 5]
+SEMESTER 1 SEMESTER 2 SEMESTER 3 SEMESTER 4
+───────────────── ─────────────────── ───────────────────── ──────────────────
+Logika Informatika ──────→ Struktur Data ──────→
+↓
+Algoritma & Pemrograman ──→ Dasar-Dasar PL ──→ PBO ─────────────────→ Pemrograman Web Lanjut
+Pemrograman Web Dasar→ (Sem 4)
 
-SEMESTER 5                SEMESTER 6              SEMESTER 7              SEMESTER 8
-──────────────────        ─────────────────────   ─────────────────────   ─────────
+Komunikasi Data ──────────→ Sistem Operasi ──→ Jaringan Komp 1 ──────→ [Jaringan Komp 2 Sem 5]
+↓
+Aljabar Linier & Matriks Kalkulus ──────→ Statistik (Sem 4) ──→ Data Mining (Sem 4)
+↓ ↓
+Sistem Basis Data ──→ Manajemen SI ──────────→ [SBD Lanjut Sem 5]
+
+SEMESTER 5 SEMESTER 6 SEMESTER 7 SEMESTER 8
+────────────────── ───────────────────── ───────────────────── ─────────
 Data Mining / Data Sci ──→ [Capstone Project 1]──→ [Capstone Project 2]──→ Seminar Proposal
-Metodologi Penelitian ──→                                                     ↓
-                                                                           Seminar Hasil
-                                                                             ↓
-                                                                           Skripsi
+Metodologi Penelitian ──→ ↓
+Seminar Hasil
+↓
+Skripsi
 ```
 
 **Gambar 6.1 — Diagram Alur Prasyarat Mata Kuliah antar-Semester**
@@ -457,7 +463,16 @@ Matriks ini memastikan keterlacakan **BK → MK → CPL** yang utuh: setiap Baha
 | BK26 | Komunikasi Data | Komunikasi Data, Jaringan Komputer 1 |
 | BK27 | Metode Penelitian dan Pengembangan | Capstone Project 1, Capstone Project 2, Seminar Proposal, Seminar Hasil, Skripsi |
 
-> ✅ **Verifikasi:** Seluruh 27 Bahan Kajian diampu oleh minimal satu mata kuliah. Seluruh mata kuliah teknis (MKW-P & MKP) memuat minimal satu Bahan Kajian. Keterlacakan **BK → MK → CPL** terpenuhi.
+### 6.8.3 Bahan Kajian Penciri Nasional/Institusi (BK28–BK29) *(BARU)*
+
+**Tabel 6.24b — Pemetaan Bahan Kajian Penciri Nasional/Institusi ke Mata Kuliah**
+
+| Kode | Bahan Kajian | Mata Kuliah Pengampu |
+|------|--------------|----------------------|
+| **BK28** | Wawasan Kebangsaan | Pancasila, Bahasa Indonesia, Kewarganegaraan |
+| **BK29** | Al-Islam dan Kemuhammadiyahan (AIK) | AIK I, AIK II, Kemuhammadiyahan dan Ke'Aisyiyahan, AIK IV |
+
+> ✅ **Verifikasi:** Seluruh **29 Bahan Kajian** (termasuk BK28–BK29 baru) diampu oleh minimal satu mata kuliah. Seluruh **65 mata kuliah** (termasuk MKW-N dan MKW-I yang sebelumnya tidak memiliki BK) kini memuat minimal satu Bahan Kajian. Keterlacakan **BK → MK → CPL** terpenuhi secara penuh.
 
 ---
 
@@ -492,8 +507,8 @@ Prasyarat menjamin urutan pembelajaran yang progresif. Mahasiswa hanya dapat men
 | Seminar Hasil | TIN8143 | Seminar Proposal (TIN8142) |
 | Skripsi | TIN8144 | Seminar Proposal (TIN8142) |
 
-> *Mata kuliah yang tidak tercantum di atas tidak memiliki prasyarat khusus. Ketentuan minimum SKS untuk mengambil Seminar Proposal/Skripsi mengikuti peraturan akademik universitas. Daftar ini perlu disahkan Tim Prodi.*
+> *Mata kuliah yang tidak tercantum di atas (termasuk seluruh MK Wajib Nasional dan AIK) tidak memiliki prasyarat khusus. Ketentuan minimum SKS untuk mengambil Seminar Proposal/Skripsi mengikuti peraturan akademik institut. Daftar ini perlu disahkan Tim Prodi.*
 
 ---
 
-*Struktur kurikulum ini dirancang dengan prinsip progresif: semester 1–2 membangun fondasi, semester 3–4 membangun kompetensi inti, semester 5–6 mengaplikasikan secara terintegrasi, dan semester 7–8 mensintesis melalui proyek mandiri (Capstone & Skripsi).*
+*Struktur kurikulum ini dirancang dengan prinsip progresif: semester 1–2 membangun fondasi, semester 3–4 membangun kompetensi inti, semester 5–6 mengaplikasikan secara terintegrasi, dan semester 7–8 mensintesis melalui proyek mandiri (Capstone & Skripsi). Amandemen CPL07/CPL08 dan BK28/BK29 memastikan pembentukan sikap (Keislaman dan Kebangsaan) juga memiliki keterlacakan OBE yang sama ketatnya dengan kompetensi teknis.*
