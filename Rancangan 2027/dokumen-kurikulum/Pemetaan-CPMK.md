@@ -57,7 +57,7 @@ Sub-CPMK (kode: Sub-CPMK + kode CPMK + urut) — lihat BAB VIII §8.4 untuk cont
 | Kode | Deskripsi CPMK | Kata Kerja |
 |------|-----------------|:----------:|
 | **CPMK011** | Menguasai konsep matematika (aljabar linier, kalkulus, matematika terapan) yang relevan untuk komputasi | Menguasai (C2) |
-| **CPMK012** | Menguasai konsep dasar sains komputasi meliputi logika, algoritma, dan struktur data | Menguasai (C3) |
+| **CPMK012** | Menguasai konsep dasar sains komputasi meliputi logika, algoritma, dan struktur data | Menguasai (C2) |
 | **CPMK013** | Menguasai fondasi teknologi informasi meliputi arsitektur sistem dan perangkat keras/lunak | Menguasai (C2) |
 | **CPMK014** | Menganalisis dan memecahkan permasalahan computing kompleks menggunakan pengetahuan matematika, sains komputasi, dan fondasi TI | Menganalisis, Memecahkan (C4) |
 
@@ -286,6 +286,7 @@ Sub-CPMK dirumuskan dari CPMK yang secara akumulatif berkontribusi terhadap penc
 - **CPMK → MK:** Seluruh 26 CPMK terhubung ke minimal 1 mata kuliah utama. ✅
 - **MK → CPMK:** 60 dari 65 mata kuliah memiliki CPMK utama eksplisit; 5 MK (Bahasa Inggris, Kewirausahaan, Bahasa Inggris Sains, Pengantar Teknologi Informasi, Komputer Grafis) hanya pendukung — lihat catatan §4.
 - **Kesesuaian SMART:** Seluruh rumusan CPMK menggunakan kata kerja tindakan tunggal dan spesifik per klausa CPL, sesuai kriteria §1.3.
+- **Konsistensi tag KKO↔level:** Diaudit seluruh 26 CPMK terhadap kata kerja yang dipakai; 1 inkonsistensi ditemukan dan diperbaiki — lihat §7 poin 6.
 
 ---
 
@@ -296,6 +297,7 @@ Sub-CPMK dirumuskan dari CPMK yang secara akumulatif berkontribusi terhadap penc
 3. **CPMK071–073 dan CPMK081–083** (untuk CPL07/CPL08) bersifat afektif (ranah A, bukan C) sesuai sifat mata kuliah AIK dan Wajib Nasional — penilaiannya mengacu Rubrik Afektif BAB X §10.3.3.
 4. **CPMK014 dan CPMK064** ("menganalisis dan memecahkan masalah computing kompleks" dan "menjunjung etika data") bersifat lintas-MK (tidak terikat pada satu/dua MK spesifik) karena mencerminkan kompetensi puncak/terintegrasi — sebaiknya dinilai pada mata kuliah bermuatan proyek/capstone/skripsi sebagai bagian dari penilaian holistik.
 5. Dokumen ini bersifat **draf untuk validasi Tim Kurikulum** — pembagian klausa kata kerja CPL menjadi CPMK dan penentuan MK pengampu utama merupakan hasil interpretasi tim penyusun; Prodi berhak menyesuaikan jumlah dan pembagian CPMK per CPL selama tetap mengikuti kaidah SMART dan format kode resmi.
+6. **[REVISI] Perbaikan konsistensi tag KKO↔level (audit lanjutan):** ditemukan bahwa kata kerja "Menguasai" dipakai pada tiga CPMK sekaligus (CPMK011, CPMK012, CPMK013) dengan konteks kalimat yang sejajar (penguasaan konsep/fondasi dalam CPL01), namun sebelumnya diberi tag level yang tidak seragam (dua bertanda C2, satu bertanda C3). Karena ketiganya secara substansi setara — sama-sama "menguasai konsep/fondasi" tanpa unsur analisis atau penerapan eksplisit dalam kalimatnya — ketiganya kini distandarkan ke **C2** agar tag level konsisten dengan kata kerja yang dipakai. Perlu dicatat, konsistensi ini berlaku *khusus di dalam dokumen CPMK*; CPL/CPMK sendiri **tidak diwajibkan** menggunakan KKO ranah HOTS (C4–C6) semata — dokumen `BAB-IV-CPL(update).md` §4.7 poin 5 secara eksplisit membolehkan rentang C2–C6 untuk penurunan CPL→CPMK, berbeda dengan Sub-CPMK yang wajib HOTS penuh sesuai KKNI Level 6 (lihat `Pemetaan-Sub-CPMK.md` §2.3).
 
 ---
 
